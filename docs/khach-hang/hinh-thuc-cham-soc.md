@@ -1,3 +1,4 @@
+# Hình thức chăm sóc
 **Thêm hình thức chăm sóc**
 
 Để tạo hình thức chăm sóc bạn truy cập khách hàng / hình thức chăm sóc khách hàng / Thêm mới hoặc truy cập [tại đây](https://new.nhanh.vn/customer/type/add)
