@@ -73,7 +73,7 @@ Sau khi doanh nghiệp gửi đơn qua bên hãng vận chuyển, nhân viên h�
 Điền đầy đủ thông tin vào các trường đánh dấu **(*)**
 
 
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/bien-ban-ban-giao-5.png).
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/bien-ban-ban-%20giao-5.png).
 
 
 Trong đó:
