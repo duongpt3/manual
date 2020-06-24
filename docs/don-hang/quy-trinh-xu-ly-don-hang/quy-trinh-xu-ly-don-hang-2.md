@@ -55,6 +55,6 @@ Tab này thống kê những đơn hàng đã giao thất bại và đang chuy�
 Hãng vận chuyển sẽ tiền hành đối soát với Nhanh một ngày sau khi đơn Thành công hoặc Chuyển hoàn.
 
 Lịch trình Hãng vận chuyển đối soát cho Nhanh.vn:
-dsjfds | **Viettel Post** | **Giaohangnhanh** | **Giaohangtietkiem** | **Giaohangtietkiem**
+ | **Viettel Post** | **Giaohangnhanh** | **Giaohangtietkiem** | **Vietnam Post**
 ------------ | ------------- | ------------- | ------------- | -------------
 Ngày trả đối soát | Thứ 2, 4, 6 | Thứ 2, 4, 6 | Thứ 2, 4, 6 | Thứ 2, 3, 4, 5, 6
