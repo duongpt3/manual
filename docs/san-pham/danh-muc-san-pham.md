@@ -7,7 +7,7 @@ Tình huống:
 
 Nhanh.vn hỗ trợ 2 cách thêm danh mục sản phẩm là thêm thủ công từng danh mục và import Excel nhiều danh mục.
 
-### 1. Thêm mới từng danh mục
+### Thêm mới từng danh mục
 Bạn truy cập lần lượt vào Sản phẩm / Danh mục sản phẩm / click nút Thêm mới, hoặc truy cập tại [đây](https://nhanh.vn/store/category/index?tab=add).
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-dmsp-1.png)
@@ -19,7 +19,7 @@ Video Hướng dẫn thêm mới danh mục sản phẩm
 
 {% youtube src="https://www.youtube.com/watch?v=OnrL9PTqQFI" %}{% endyoutube %}
 
-### 2. Import danh mục sản phẩm bằng file Excel
+### Import danh mục sản phẩm bằng file Excel
 Bạn truy cập lần lượt vào Sản phẩm / Danh mục sản phẩm / click nút Thêm mới, chọn Import từ Excel, hoặc truy cập tại [đây]().
 
 Các bước thực hiện:
