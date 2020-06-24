@@ -65,9 +65,9 @@ Ngày trả đối soát | Thứ 2, 4, 6 | Thứ 2, 4, 6 | Thứ 2, 4, 6 | Thứ
 
 Một ngày sau khi nhận đối soát từ Hãng vận chuyển, Nhanh sẽ thanh toán tiền hàng cho doanh nghiệp theo lịch:
 
-[](link) | Khách doanh nghiệp | Khách lẻ
+[]() | **Khách doanh nghiệp** | **Khách lẻ**
 ------------ | ------------- | -------------
-First Header | Nhận qua tài khoản ngân hàng | Nhận qua tài khoản ngân hàng
+[]() | **Nhận qua tài khoản ngân hàng** | **Nhận qua tài khoản ngân hàng**
 Vietnam Post | Thứ 2, 3, 4, 5, 6 | Thứ 2, 3, 5
 Viettel Post | Thứ 2, 3, 5 | Thứ 2, 3, 5
 Giaohangtietkiem | Thứ 2, 3, 5 | Thứ 2, 3, 5
