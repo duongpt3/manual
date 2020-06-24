@@ -70,5 +70,5 @@ Tên gọi | Mô tả
 Mới|Sản phẩm bán được trên các giao diện Bán lẻ, Bán buôn, Đơn hàng, nhưng sẽ không hiện trên website.
 Đang bán|Sản phẩm bán được trên các giao diện Bán lẻ, Bán buôn, Đơn hàng, và có hiển thị trên website.
 Ngừng bán|Sản phẩm không thêm được ở các giao diện Bán lẻ, Bán buôn, Đơn hàng, cũng không hiển thị được sản phẩm trên website.
-Hết hàng|Sản phẩm vẫn có thể hiển thị trên website, nhưng sẽ không cho phép đặt mua nữa mà sẽ hiển thị tiêu đề là Hết hàng hoặc Ngừng kinh doanh.
+Hết hàng|Sản phẩm vẫn có thể hiển thị trên website, nhưng sẽ không cho phép đặt mua nữa mà sẽ hiển thị tiêu đề là Hết hàng hoặc Ngừng kinh doanh. Bạn có thể dùng trạng thái này để tránh lỗi 404 cho trang chi tiết sản phẩm tránh bị ảnh hưởng tới SEO.
 
