@@ -51,4 +51,5 @@ Bạn có thể gắn thương hiệu cho sản phẩm bằng cách vào sửa t
 
 Video hướng dẫn tạo thương hiệu cho sản phẩm:
 
-{% youtube src="https://www.youtube.com/watch?v=S2dVkSqGCzI" %}{% endyoutube %}
+{% youtube src="https://www.youtube.com/watch?v=S2dVkSqGCzI" %}{% endyoutube %} 
+
