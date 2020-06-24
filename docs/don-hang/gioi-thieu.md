@@ -18,19 +18,19 @@
 ### Trạng thái đơn hàng
 **Trạng thái** | **Ý nghĩa**
 ------------ | -------------
-Mới | Trạng thái đơn hàng mới tạo
-Đang xác nhận / Đã xác nhận | Trạng thái lúc gọi điện cho khách để xác nhận lại đơn hàng
-Đang đóng gói sản phẩm | Trạng thái đơn hàng mới tạo
-Chờ đi nhận / Đang đi nhận / Đã nhận hàng | Chờ đi nhận khi doanh nghiệp gửi sang hãng vận chuyển; Đang đi nhận, Đã nhận hàng hãng vận chuyển sẽ cập nhật trạng thái này khi đi và nhận hàng gửi từ doanh nghiệp
-Đang chuyển | Hãng vận chuyển sẽ đổi sang trạng thái này hoặc doanh nghiệp tự đổi với đơn tự vận chuyển
-Thất bại | Nếu hãng vận chuyển gửi hàng đến khách hàng nhưng vì một lý do nào đó khách không nhận hoặc không gửi được cho khách, hãng sẽ cập nhật về trạng thái này -> doanh nghiệp cần liên hệ lại với khách hàng để xem chuyển hàng về hay gửi lại cho khách
-Đang chuyển hoàn | Khi khác hàng không nhận và doanh nghiệp xác nhận việc khách không nhận hàng, hãng sẽ cập nhật về trạng thái này và mang hàng về cho doanh nghiệp
-Đã chuyển hoàn | Doanh nghiệp nhận lại hàng Đang chuyển hoàn và tự đổi sang trạng thái Đã chuyển hoàn
-Thành công | Khi đơn hàng đã gửi cho khách thì hãng/doanh nghiệp cần đổi sang trạng thái thành công.
+**Mới** | Trạng thái đơn hàng mới tạo
+**Đang xác nhận / Đã xác nhận** | Trạng thái lúc gọi điện cho khách để xác nhận lại đơn hàng
+**Đang đóng gói sản phẩm** | Trạng thái đơn hàng mới tạo
+**Chờ đi nhận / Đang đi nhận / Đã nhận hàng** | Chờ đi nhận khi doanh nghiệp gửi sang hãng vận chuyển; Đang đi nhận, Đã nhận hàng hãng vận chuyển sẽ cập nhật trạng thái này khi đi và nhận hàng gửi từ doanh nghiệp
+**Đang chuyển** | Hãng vận chuyển sẽ đổi sang trạng thái này hoặc doanh nghiệp tự đổi với đơn tự vận chuyển
+**Thất bại** | Nếu hãng vận chuyển gửi hàng đến khách hàng nhưng vì một lý do nào đó khách không nhận hoặc không gửi được cho khách, hãng sẽ cập nhật về trạng thái này -> doanh nghiệp cần liên hệ lại với khách hàng để xem chuyển hàng về hay gửi lại cho khách
+**Đang chuyển hoàn** | Khi khác hàng không nhận và doanh nghiệp xác nhận việc khách không nhận hàng, hãng sẽ cập nhật về trạng thái này và mang hàng về cho doanh nghiệp
+**Đã chuyển hoàn** | Doanh nghiệp nhận lại hàng Đang chuyển hoàn và tự đổi sang trạng thái Đã chuyển hoàn
+**Thành công** | Khi đơn hàng đã gửi cho khách thì hãng/doanh nghiệp cần đổi sang trạng thái thành công.
 
 **Bạn có thể tham khảo video hướng dẫn trạng thái sản phẩm và đơn hàng tại đây**
 
-{% youtube src="https://www.youtube.com/watch?v=-CJPWYW2Az0" %}{% endyoutube %}
+{% youtube src="link" %}{% endyoutube %}
 
 ### Biên bản bàn giao
 Khi có nhiều đơn hàng cần gửi cho hãng vận chuyển trong ngày, bạn nên dùng biên bản bàn giao để:
