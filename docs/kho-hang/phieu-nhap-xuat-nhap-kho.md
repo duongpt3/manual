@@ -15,7 +15,7 @@ Phiếu nháp xuất nhập kho có thể giúp ước tính số lượng hàng
 - Chọn phiếu nháp nhà cung cấp hoặc [truy cập vào đây](https://new.nhanh.vn/inventory/requirement/addsupplier): hệ thống hiển thị giao diện phiếu nháp nhà cung cấp
 - Điền các thông tin cần thiết ở dấu * và ấn nút lưu
 
-![](https://github.com/nhanhapi/manual/blob/master/docs/kho-hang/img/phieu-nhap-nhap-nha-cung-cap.png)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/danh-sach-phieu-nhap-nhap-nha-cung-cap.png)
 
 
 - Hệ thống hiển thị danh sách cách [phiếu nháp nhà cung cấp](https://new.nhanh.vn/inventory/requirement/bill)
