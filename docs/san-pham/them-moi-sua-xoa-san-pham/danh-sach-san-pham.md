@@ -1,12 +1,12 @@
 # Xem danh sách sản phẩm, chi tiết sản phẩm, lịch sử sửa xóa
 ---
-## I. Danh sách sản phẩm
+## Danh sách sản phẩm
 https://nhanh.vn/product/item/index
 Giúp bạn xem, lọc tìm, sửa, xóa, cập nhật trạng thái, in mã vạch, xuất Excel danh sách sản phẩm
 
 ![Danh sách sản phẩm](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp_dssp.png)
 
-## II. Chi tiết sản phẩm
+## Chi tiết sản phẩm
 Bạn click vào ID / mã / tên sản phẩm để vào trang chi tiết sản phẩm.
 
 Tại đây, doanh nghiệp có thể:
@@ -18,7 +18,7 @@ Tại đây, doanh nghiệp có thể:
 * Lịch sử sửa đổi, lịch sử XNK của sản phẩm
 
 
-## III. Log sửa sản phẩm
+## Log sửa sản phẩm
 Cho phép bạn theo dõi toàn bộ các thao tác sửa sản phẩm của nhân viên, lọc ra các sản phẩm cần in lại mã vạch, in lại bảng cấu hình sản phẩm theo giá bán mới, hoặc thông báo cho cửa hàng biết về các sản phẩm có biến động về giá bán.
 (chưa click được vào ID sản phẩm)
 Hệ thống chia ra 3 tab là Có sửa giá bán (chỉ hiển thị những sản phẩm đã được sửa giá bán), Có sửa giá nhập (chỉ hiển thị những sản phẩm đã được sửa giá nhập) và Lịch sử sửa xóa.
