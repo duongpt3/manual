@@ -1,7 +1,7 @@
 # Sản phẩm có nhiều đơn vị tính
 Có nhiều loại sản phẩm mà nhập theo một đơn vị tính nhưng khi bán hàng lại theo một đơn vị tính khác (ví dụ Nước, Sữa, Thuốc...)
 Quản lý, nhập, bán sản phẩm có nhiều đơn vị tính trên Nhanh.vn
-## 1. Khi [tạo sản phẩm](https://nhanh.vn/product/item/add), chọn loại sản phẩm là Sản phẩm nhiều đơn vị tính
+## Khi [tạo sản phẩm](https://nhanh.vn/product/item/add), chọn loại sản phẩm là Sản phẩm nhiều đơn vị tính
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-ynghia-nhieudvtinh.png)
 
@@ -14,7 +14,7 @@ Ví dụ: Chai nước C2 có thể bán theo chai, Lốc, Thùng và các đơn
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-ynghia-nhieudvtinh-1.png)
 
-## 2. Khi Xuất/Nhập kho sản phẩm có nhiều đơn vị tính, bạn bạn có thể chọn loại đơn vị khi xuất nhập
+## Khi Xuất/Nhập kho sản phẩm có nhiều đơn vị tính, bạn bạn có thể chọn loại đơn vị khi xuất nhập
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-ynghia-nhieudvtinh-2pre%20-%20Copy.png)
 
@@ -23,7 +23,7 @@ Như ví dụ trên, giá nhập Chai C2 = 120.000 / 24 = 5.000 đ
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-ynghia-nhieudvtinh-3.png)
 
-## 3. Bán sản phẩm có nhiều đơn vị tính
+## Bán sản phẩm có nhiều đơn vị tính
 Khi bán hàng, bạn cũng có thể chọn loại đơn vị tính
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-ynghia-nhieudvtinh-4.png)
