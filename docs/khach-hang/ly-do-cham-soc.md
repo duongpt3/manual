@@ -1,3 +1,4 @@
+# Lý do chăm sóc
 Để thêm mới lý do chăm sóc khách hàng bạn thao tác Khách hàng / Lý do chăm sóc / Thêm mới hoặc truy cập [tại đây](https://new.nhanh.vn/customer/reason/add)
 
 
