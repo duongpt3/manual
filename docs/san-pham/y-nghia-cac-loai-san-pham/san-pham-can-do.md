@@ -12,14 +12,14 @@ Ví dụ: Mã vạch trên đây là dãy số: 2653176003863, trong đó:
 * Năm số tiếp theo (00386) là cân nặng của sản phẩm, tính theo gram. Ở đây là 386 gram
 * Số cuối cùng (3) là số ngẫu nhiên do cân điện tử tự sinh khi tạo mã vạch sản phẩm
 
-## I. QUY TRÌNH NHẬP LIỆU SẢN PHẨM CÂN ĐO
+## QUY TRÌNH NHẬP LIỆU SẢN PHẨM CÂN ĐO
 Sản phẩm cân đo cần được nhập liệu lên Nhanh.vn như bình thường. Các đơn vị bắt buộc gồm: Mã vạch sản phẩm, Tên sản phẩm, Giá bán sản phẩm.
 - Mã vạch sản phẩm: Nhập liệu mã vạch sản phẩm gồm 5 ký tự chữ số vào ô Mã vạch sản phẩm. Ví dụ như Mã vạch sản phẩm 53176 tại ví dụ trên.
 - Tên sản phẩm: Nhập liệu tên sản phẩm vào ô Tên sản phẩm. Ví dụ như Tên sản phẩm là Bí giống Nhật (Bi giong Nhat) tại ví dụ trên.
 - Giá sản phẩm: Nhập giá quy chuẩn cho sản phẩm, theo đơn vị tính đã quy ước. Thông thường, đơn vị Kilogam - viết tắt Kg được sử dụng rộng rãi và đơn vị cân tiêu chuẩn. Ví dụ: Giá sản phẩm là 23.900VNĐ/ Kg tại ví dụ trên.
 
 Toàn bộ thông tin về Mã vạch sản phẩm, Tên sản phẩm, Giá sản phẩm đều được hiển thị trên tem sản phẩm khi Doanh nghiệp xuất bán từng lần của sản phẩm đó.
-## II. QUY TRÌNH BÁN HÀNG SẢN PHẨM CÂN ĐO
+## QUY TRÌNH BÁN HÀNG SẢN PHẨM CÂN ĐO
 Để thao tác bán hàng đối với loại sản phẩm cân đo, Doanh nghiệp cần sử dụng thiết bị cân đo điện tử (hình minh họa bên dưới) tích hợp với phần mềm quản lý bán hàng Nhanh.vn
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-ynghia-spcando-2.png)
