@@ -11,6 +11,8 @@ Các nghiệp vụ cơ bản:
 - Chọn Kiểu mã đúng với loại muốn thêm (Google Analytics, Google Adwords, Google Tracking, Google Tag Manager, Facebook Pixel, Remarketing Google/Facebook.....)
 - Paste đoạn mã nhúng vào ô Nội dung, sau đó click Lưu
 
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/thong-tin-ma-nhung.png)
+
 ##  2. Danh sách mã nhúng: https://nhanh.vn/website/script/index giúp bạn quản lý tất cả các mã nhúng trên website.
 
 Trong trường hợp đã nhúng mà chưa thấy mã hoạt động, bạn click vào Hành động / chọn Xóa cache
