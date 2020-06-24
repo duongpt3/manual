@@ -58,3 +58,18 @@ Lịch trình Hãng vận chuyển đối soát cho Nhanh.vn:
 **Hãng vận chuyển** | **Viettel Post** | **Giaohangnhanh** | **Giaohangtietkiem** | **Vietnam Post**
 ------------ | ------------- | ------------- | ------------- | -------------
 Ngày trả đối soát | Thứ 2, 4, 6 | Thứ 2, 4, 6 | Thứ 2, 4, 6 | Thứ 2, 3, 4, 5, 6
+
+### 6.2. Nhanh.vn đối soát và thanh toán COD với khách hàng
+
+Để nhận được tiền thu hộ (COD), doanh nghiệp cần khai báo tài khoản nhận tiền tại https://nhanh.vn/store/paymentaccount/addbankacc
+
+Một ngày sau khi nhận đối soát từ Hãng vận chuyển, Nhanh sẽ thanh toán tiền hàng cho doanh nghiệp theo lịch:
+
+First Header | Second Header | Second Header
+------------ | ------------- | -------------
+First Header | Second Header | Second Header
+------------ | ------------- | -------------
+Content from cell 1 | Content from cell 2 | Content from cell 2
+Content from cell 1 | Content from cell 2 | Content from cell 2
+Content from cell 1 | Content from cell 2 | Content from cell 2
+Content from cell 1 | Content from cell 2 | Content from cell 2
