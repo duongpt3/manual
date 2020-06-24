@@ -14,8 +14,8 @@
 - Khách hàng có thể không mua hàng và hoàn trả, do đó cần quản lý thêm "trạng thái đơn hàng"
 - Khi đơn hàng mới được tạo thì hệ thống Nhanh.vn không trừ tồn kho và cũng chưa ghi nhận doanh thu. Khi nào đơn hàng thành công hệ thống thì mới trừ kho và tính doanh thu.
 
-## **I. Các khái niệm trong Đơn hàng**
-### **1. Trạng thái đơn hàng**
+## Các khái niệm trong Đơn hàng
+### Trạng thái đơn hàng
 **Trạng thái** | **Ý nghĩa**
 ------------ | -------------
 Mới | Trạng thái đơn hàng mới tạo
@@ -32,51 +32,51 @@ Thành công | Khi đơn hàng đã gửi cho khách thì hãng/doanh nghiệp c
 
 {% youtube src="https://www.youtube.com/watch?v=-CJPWYW2Az0" %}{% endyoutube %}
 
-### **2. Biên bản bàn giao**
+### Biên bản bàn giao
 Khi có nhiều đơn hàng cần gửi cho hãng vận chuyển trong ngày, bạn nên dùng biên bản bàn giao để:
 - Cho nhiều đơn hàng vào biên bản và bắn biên bản sang hãng vận chuyển cùng 1 thời điểm, giúp cho việc điều tin nhanh và tập trung hơn.
 - In bảng tổng hợp số lượng sản phẩm để nhặt hàng và đóng gói nhanh hơn.
 - In biên bản cho bưu tá kí xác nhận đã nhận tổng số đơn và bảng kê chi tiết, mà không cần kí nhận từng phiếu gửi giúp tiết kiệm giấy in, hạn chế thất thoát.
 
-### **3. Tour chuyển hàng**
+### Tour chuyển hàng
 Dùng cho doanh nghiệp nào tự có đội ngũ vận chuyển riêng, tự quản lý các đơn hàng gửi cho khách.
 
-### **4. Đối soát**
+### Đối soát
 Nhanh.vn sẽ đối soát các đơn hàng gửi qua hãng vận chuyển để gửi tiền cho doanh nghiệp.
 
-## **II. Nghiệp vụ tạo, xử lý đơn hàng**
-### **1. Khách hàng đặt đơn hàng**
+## Nghiệp vụ tạo, xử lý đơn hàng
+### Khách hàng đặt đơn hàng
 - Đặt hàng trên website: khách đặt hàng và điền thông tin ở trang thanh toán trên các website mà Nhanh.vn cung cấp, các trang kết nối api với Nhanh.vn, các đơn đặt trên Shopee/Lazada -> đơn hàng sẽ chuyển về [Danh sách đơn hàng](https://nhanh.vn/order/manage/index).
 - Khách gọi điện thoại đến doanh nghiệp, đặt hàng trên trang fanpage Facebook của doanh nghiệp...
   - Doanh nghiệp vào tạo đơn hàng trong hệ thống, điền đấy đủ các thông tin khách hàng, báo cho khách về phí vận chuyển (nếu có).
   - Doanh nghiệp import đơn hàng để tạo nhiều đơn hàng cùng lúc lên hệ thống.
 - Trường hợp không có doanh nghiệp trên Nhanh.vn, người dùng vẫn có thể đăng nhập để [tạo đơn hàng lẻ](https://nhanh.vn/shipping/shipment/add) miễn phí mà Nhanh.vn cung cấp.
 
-### **2. Chăm sóc, xác nhận lại đơn hàng**
+### Chăm sóc, xác nhận lại đơn hàng
 Doanh nghiệp gọi điện lại cho khách để xác nhận lại đơn hàng -> Đơn hàng sẽ chuyển sang các trạng thái: Đang xác nhận, Đã xác nhận.
 
-### **3. In và Đóng gói sản phẩm**
+### In và Đóng gói sản phẩm
 
-### **4. Tạo biên bản bàn giao**
+### Tạo biên bản bàn giao
 Tập hợp các đơn hàng cùng 1 hãng vận chuyển -> tạo biên bản bàn giao, thêm các đơn hàng vào biên bản bàn giao -> Click gửi sang hãng vận chuyển -> In biên bản bàn giao giao cho hãng vận chuyển đến lấy hàng.
 
-### **5. Gửi đơn hàng sang hãng vận chuyển**
+### Gửi đơn hàng sang hãng vận chuyển
 - Khi kích gửi sang hãng vận chuyển thì trạng thái tự động chuyển sang là Chờ đi nhận -> Hãng khi nào nhận được hàng sẽ chuyển trạng thái sang Đang chuyển để ghi nhận là đang chuyển hàng cho khách.
 - Doanh nghiệp tự vận chuyển hàng sang cho khách hàng -> doanh nghiệp đổi trạng thái sang hãng vận chuyển.
 
-### **6. Hãng vận chuyển thay đổi trạng thái -> Cập nhật lịch trình về Nhanh.vn:**
+### Hãng vận chuyển thay đổi trạng thái -> Cập nhật lịch trình về Nhanh.vn
 
-### **7. Nhận lại hàng Đang chuyển hoàn và chuyển trạng thái đơn hàng về Đã chuyển hoàn**
+### Nhận lại hàng Đang chuyển hoàn và chuyển trạng thái đơn hàng về Đã chuyển hoàn
 
-### **8. Chuyển trạng thái Thành công**
+### Chuyển trạng thái Thành công
 - Do hãng vận chuyển đổi khi đơn hàng gửi sang hãng vận chuyển, hàng được chuyển hành công.
 
 - Doanh nghiệp tự đổi trạng thái đơn hàng khi đã chuyển hàng thành công cho khách.
 
-### **9. Đối soát đơn hàng**
+### Đối soát đơn hàng
 Chỉ đối soát các đơn hàng gửi cho hãng vận chuyển, thao tác này thì Nhanh.vn sẽ thực hiện -> sau khi đã đối soát xong sẽ chuyển tiền hàng về cho doanh nghiệp, cá nhân qua các tài khoản đã đăng ký trên Nhanh.vn.
 
-### **10. Tạo phiếu thu ghi nhận tiền thanh toán**
+### Tạo phiếu thu ghi nhận tiền thanh toán
 Với doanh nghiệp dùng kế toán thì sẽ tự tạo phiếu thu bằng tay để ghi nhận tiền hàng nhận được do doanh nghiệp thu hoặc do nhanh.vn gửi cho doanh nghiệp. Gắn ID chứng từ theo phiếu XNK [G] được tạo ra khi đơn hàng thành công, để lấy được ID chứng từ này: cách 1 lọc ID đơn hàng ở danh sách phiếu XNK; cách 2 vào trang chi tiết đơn hàng -> kích vào ngày nhận, sẽ trỏ đến phiếu XNK [G] đã tạo.
 
 **Lưu ý:** Quy trình xử lý đơn hàng hiện tại trên nhanh là:
