@@ -28,7 +28,7 @@ Các bước thực hiện:
 - Nhập liệu vào file mẫu, sau đó Save lại
 - Import file mẫu lên Nhanh.vn.
 
-Sau khi đã thêm mới thành công các danh mục sản phẩm, bạn kiểm tra lại các danh mục vừa thêm mới tại trang [Danh sách danh mục sản phẩm](https://new.nhanh.vn/store/category/index):
+Sau khi đã thêm mới thành công các danh mục sản phẩm, bạn kiểm tra lại các danh mục vừa thêm mới tại trang [Danh sách danh mục sản phẩm](https://nhanh.vn/store/category/index):
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-dmsp-2.png)
 
