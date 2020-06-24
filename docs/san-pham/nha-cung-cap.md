@@ -2,7 +2,7 @@
 **Mục đích sử dụng** 
 Dùng để theo dõi thông tin các nhà cung cấp mà doanh nghiệp đang làm việc.
 Theo dõi xem một sản phẩm nhập của nhà cung cấp nào, để có thông tin đổi, trả hàng hoặc bảo hành với nhà cung cấp.
-## 1. Thêm mới nhà cung cấp
+## Thêm mới nhà cung cấp
 Bạn vào Sản phẩm / Nhà cung cấp / Click Thêm mới
 
 Có 2 cách để thêm mới nhà cung cấp
@@ -40,7 +40,7 @@ Bước 3: Tải file Import đã nhập liệu lên hệ thống và theo dõi 
 
 Sau khi upload thành công (hay thất bại) hệ thống sẽ thông báo tới doanh nghiệp. Trường hợp thành công, doanh nghiệp kiểm tra lại danh sách nhà cung cấp vừa Import tại Danh sách nhà cung cấp  tại [đây](https://nhanh.vn/supplier/manage/index)
 
-## 2. Sản phẩm nhà cung cấp
+## Sản phẩm nhà cung cấp
 Dùng để theo dõi một sản phẩm nhập của nhà cung cấp nào, để có thông tin đổi, trả hàng hoặc bảo hành với nhà cung cấp hoặc xem các báo cáo tồn kho lọc theo từng nhà cung cấp.
 
 Người dùng truy cập vào module Sản phẩm / Nhà cung cấp / Sản phẩm nhà cung cấp, hoặc truy cập tại [đây](https://nhanh.vn/supplier/product/index).
