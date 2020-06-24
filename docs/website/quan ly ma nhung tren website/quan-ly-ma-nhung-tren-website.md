@@ -13,7 +13,7 @@ Các nghiệp vụ cơ bản:
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/thong-tin-ma-nhung.png)
 
-##  2. Danh sách mã nhúng: https://nhanh.vn/website/script/index giúp bạn quản lý tất cả các mã nhúng trên website.
+##  2. Danh sách mã nhúng: https://new.nhanh.vn/website/script/index giúp bạn quản lý tất cả các mã nhúng trên website.
 
 Trong trường hợp đã nhúng mà chưa thấy mã hoạt động, bạn click vào Hành động / chọn Xóa cache
 
