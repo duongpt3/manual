@@ -29,3 +29,17 @@ Tạo OA (Official Account) mới
 ### 3.5. Nhập địa chỉ, sau đó click Hoàn tất
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/tich-hop-chat-zalo5.png)
+
+### 3.6. Chờ cho OA được duyệt (thông thường khoảng 1 ngày)
+
+Sau khi được duyệt thì khi đăng nhập vào https://oa.zalo.me/home sẽ hiện OA đã tạo
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/tich-hop-chat-zalo6.png)
+
+## Bước 4
+Sau khi OA được duyệt, truy cập vào https://developers.zalo.me/docs/social/zalo-chat-widget để tạo mã nhúng
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/tich-hop-chat-zalo7.png)
+
+Click vào Lấy mã, copy đoạn mã nhúng đó
+
