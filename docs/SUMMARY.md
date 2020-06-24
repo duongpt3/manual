@@ -26,11 +26,11 @@
 ## Sản phẩm
 
 * [Giới thiệu về Sản phẩm](san-pham/gioi-thieu.md)
-* [Thêm mới, sửa, xóa sản phẩm]
+* Thêm mới, sửa, xóa sản phẩm
   * [Thêm mới, sửa, xóa sản phẩm](san-pham/them-moi-sua-xoa-san-pham/them-moi-sua-xoa-san-pham.md)
   * [Danh sách sản phẩm](san-pham/them-moi-sua-xoa-san-pham/danh-sach-san-pham.md)
   * [Tạo thuộc tính cho sản phẩm](san-pham/them-moi-sua-xoa-san-pham/tao-thuoc-tinh-cho-san-pham.md)
-* [Ý nghĩa các loại sản phẩm]
+* Ý nghĩa các loại sản phẩm
   * [Sản phẩm theo lô](san-pham/y-nghia-cac-loai-san-pham/ban-san-pham-theo-lo.md)
   * [Gói sản phẩm](san-pham/y-nghia-cac-loai-san-pham/goi-san-pham.md)
   * [Sản phẩm cân đo](san-pham/y-nghia-cac-loai-san-pham/san-pham-can-do.md)
