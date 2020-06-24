@@ -37,4 +37,4 @@ Bước 7. Kiểm tra lại trên website đã hiển thị box chat Facebook ha
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/tich-hop-facebook-chat-1.png)
 
-
+Chúc các bạn thành công!
