@@ -19,7 +19,7 @@ Trong trường hợp đã nhúng mà chưa thấy mã hoạt động, bạn cli
 
 ## 3. Các hướng dẫn liên quan:
 
-Hướng dẫn add Google Analytics
-Tích hợp BOX Chat với Fanpage trên website
-Tích hợp chat Zalo trên website
-Cài đặt mã nhúng Facebook Feed và Google Feed để chạy chiến dịch Re Marketing (tiếp thị lại)
+- Hướng dẫn add Google Analytics
+- Tích hợp BOX Chat với Fanpage trên website
+- Tích hợp chat Zalo trên website
+- Cài đặt mã nhúng Facebook Feed và Google Feed để chạy chiến dịch Re Marketing (tiếp thị lại)
