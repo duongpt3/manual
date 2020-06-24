@@ -9,4 +9,4 @@ Cài đặt đơn hàng giúp bạn
 * Cho phép cập nhật đơn hàng thành công về trước ngày hiện tại
 * Bắt buộc phải nhập nguồn đơn hàng khi thêm đơn hàng
 
-![Cài đặt đơn hàng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/cai-dat-don-hang.jpg)
+![Cài đặt đơn hàng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/cai-dat-don-hang-1.jpg)
