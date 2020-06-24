@@ -39,4 +39,4 @@ Hệ thống sẽ tạo phiếu Xuất bán và trừ tồn gói sản phẩm, k
 Ngược lại với tạo gói sản phẩm. Hệ thống tạo phiếu Xuất [Khác] gói sản phẩm và Nhập [Khác] các sản phẩm trong gói
 
 *NOTE:  
-Gói sản phẩm chỉ áp dụng cho loại sản phẩm: thường, cân đo, nhiều đơn vị tính( chỉ áp dụng cho đơn vị tính nhỏ nhất)
+Gói sản phẩm chỉ áp dụng cho loại sản phẩm: thường, cân đo, nhiều đơn vị tính( chỉ áp dụng cho đơn vị tính nhỏ nhất)*
