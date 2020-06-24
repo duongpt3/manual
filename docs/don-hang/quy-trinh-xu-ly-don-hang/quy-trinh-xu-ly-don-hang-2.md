@@ -61,8 +61,7 @@ Ngày trả đối soát | Thứ 2, 4, 6 | Thứ 2, 4, 6 | Thứ 2, 4, 6 | Thứ
 
 ### 6.2. Nhanh.vn đối soát và thanh toán COD với khách hàng
 
-Để nhận được tiền thu hộ (COD), doanh nghiệp cần khai báo tài khoản nhận tiền tại https://nhanh.vn/store/paymentaccount/addbankacc
-
+Để nhận được tiền thu hộ (COD), doanh nghiệp cần khai báo tài khoản nhận tiền [tại đây](link).
 Một ngày sau khi nhận đối soát từ Hãng vận chuyển, Nhanh sẽ thanh toán tiền hàng cho doanh nghiệp theo lịch:
 
 []() | **Khách doanh nghiệp** | **Khách lẻ**
