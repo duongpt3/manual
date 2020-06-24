@@ -50,11 +50,47 @@ Trong đó:
 - **Loại:** Gửi hàng chuyển đi và Nhận hàng hoàn về.
   - Gửi hàng: Dùng để xác nhận việc doanh nghiệp đã giao hàng cho hãng vận chuyển để giao đi cho khách hàng.
   - Chuyển hoàn: Dùng để xác nhận việc doanh nghiệp đã nhận lại hàng hoàn từ hãng vận chuyển.
-- **Số vận đơn:** Mục này cho biết số  đơn hàng có trong biên bản bàn giao. 
-- **Mô tả:** Hiển thị tất cả những mô tả, ghi chú thêm về biên bản bàn giao.
-- **Ngày bàn giao:** Hiển thị ngày bàn giao vận đơn trong biên bản
+- **Số đơn:** Mục này cho biết số  đơn hàng có trong biên bản bàn giao. 
+- **Ghi chú:** Hiển thị tất cả những mô tả, ghi chú thêm về biên bản bàn giao.
 - **Người tạo:** Hiển thị người tạo biên bản bàn giao
 - **Nút thao tác nhanh:** ![bien-ban-ban-giao](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/bien-ban-ban-giao-3.png) gồm các tùy chọn:
   - In biên bản với giao diện đầy đủ (có kèm theo sản phẩm) và rút gọn
   - Thêm đơn hàng vào biên bản: Dùng để thêm đơn vào biên bản bàn giao cho hãng vận chuyển khi hãng vận chuyển đang nhận hoặc chưa đến nhận bàn giao.(Không dùng trong trường hợp đã lấy hàng).
-  - Xóa biên bản bàn giao vận đơn
+  - Xóa biên bản bàn giao vận đơn.
+  
+  ## II. Thêm biên bản bàn giao vận đơn
+Thêm biên bản bàn giao vận đơn giúp bạn thực hiện nghiệp vụ thêm biên bản bàn giao đơn hàng cho hãng vận chuyển.
+
+Sau khi doanh nghiệp gửi đơn qua bên hãng vận chuyển, nhân viên hãng vận chuyển sẽ qua trực tiếp kho / cửa hàng bàn giao đơn hàng để tiếp nhận đơn hàng. Hai bên cần tiến hành xác lập biên bản bàn giao để xác thực quá trình bàn giao. 
+
+Để làm việc tại đây, bạn truy cập vào Đơn hàng / Biên bản bàn giao vận đơn, sau đó click vào nút thêm mới hoặc truy cập [tại đây](link).
+
+### QUY TRÌNH LẬP BIÊN BẢN BÀN GIAO VẬN ĐƠN
+**Bước 1:** Truy cập vào [Thêm biên bản bàn giao vận đơn](link)
+
+**Bước 2:** Nhập liệu thông tin
+
+Điền đầy đủ thông tin vào các trường đánh dấu **(*)**
+
+![Giao diện làm việc của Thêm biên bản bàn giao vận đơn](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/bien-ban-ban-giao-5.png).
+
+Trong đó:
+
+- **Cửa hàng:** Chọn kho/cửa hàng xuất hàng cho hãng vận chuyển
+- **Hãng vận chuyển:** Chọn hãng vận chuyển đã bắn (gửi) vận đơn sang.
+- **Loại:** Chọn loại Gửi hàng
+- **ID đơn đặt hàng:** Nhập ID đơn hàng đã bắn sang hãng vận chuyển.
+- **Mô tả:** Hiển thị thông tin ghi chú thêm về đơn hàng hay thời gian giao hàng.
+
+**Bước 3:** Lưu biên bản bàn giao vận đơn
+
+Doanh nghiệp có thể in biên bản bàn giao với 2 tùy chọn là In biên bản đầy đủ và In biên bản rút gọn. Đồng thời với bước in, hệ thống sẽ lưu biên bản bàn giao hàng hóa vào Danh sách biên bản bàn giao vận đơn [tại đây](link).
+
+Bước 4: Gửi và in biên bản bàn giao vận đơn
+
+Doanh nghiệp click vào nút ![biên bản vận chuyển](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/bien-ban-ban-giao-6.png) để xác nhận gửi vận đơn qua hãng vận chuyển lần nữa, sau đó ấn nút in biên bản. Hai bên cùng ký xác nhận bàn giao vận đơn hàng hóa.
+
+**Lưu ý:**
+- Tất cả các đơn hàng đã bắn sang hãng vận chuyển không được quyền sửa hoặc xóa cho đến khi hãng vận chuyển cập nhật trạng thái.
+- Trong trường hợp muốn thay đổi vận đơn cần tạo đơn mới lại để gửi hãng vận chuyển và hủy đơn cũ bị lỗi. 
+- Đối với những đơn hàng sai kho, hoặc khác hãng vận chuyển, hệ thống sẽ chặn và hiển thị thông báo chi tiết cho người dùng.
