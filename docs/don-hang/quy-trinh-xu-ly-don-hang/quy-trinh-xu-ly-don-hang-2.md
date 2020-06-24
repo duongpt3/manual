@@ -2,7 +2,7 @@
 
 Quy trình xử lý đơn hàng của Nhanh.vn được mô tả theo sơ đồ sau:
 
-![](link)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/quy-trinh-xu-ly-DH-1.jpg)
 
 ## 1. Thêm đơn hàng 
 - Khách hàng đặt hàng trên website do Nhanh.vn cung cấp, hoặc website được tích hợp API của Nhanh, thì thông tin đơn hàng sẽ được chuyển đến phần mềm quản lý bán hàng Nhanh.vn.
@@ -39,7 +39,7 @@ Quy trình vận chuyển của Nhanh.vn có 3 tab riêng để quản lý trạ
 
 ### 5.1. Vượt cân
 
-Tab này thống kê những đơn hàng đang chuyển có khối lượng thực tế lớn hơn so với khối lượng mà doanh nghiệp đã khai báo. Người dùng click vào tab ![](link)  hoặc truy cập [tại đây](link).
+Tab này thống kê những đơn hàng đang chuyển có khối lượng thực tế lớn hơn so với khối lượng mà doanh nghiệp đã khai báo. Người dùng click vào tab ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/quy-trinh-xu-ly-DH-2.jpg)  hoặc truy cập [tại đây](link).
 
 ### 5.2. Giao hàng thất bại
 
