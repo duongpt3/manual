@@ -12,8 +12,8 @@ Với doanh nghiệp sử dụng website của Nhanh.vn thì quản lý sản ph
 
 - Bước 2: Gắn thương hiệu cho sản phẩm (Bằng cách sửa từng sản phẩm hoặc import cập nhật sản phẩm)
 
-## I. Thêm mới thương hiệu
-### 1. Thêm mới từng thương hiệu
+## Thêm mới thương hiệu
+### Thêm mới từng thương hiệu
 Bạn truy cập lần lượt vào Sản phẩm / Danh sách thương hiệu / click nút Thêm mới, chọn Thêm mới, hoặc truy cập tại [đây]()
 Bạn điền thông tin vào các trường cần thiết, sau đó click Lưu để hoàn tất. Các trường thông tin gồm:
 
@@ -27,7 +27,7 @@ Bạn điền thông tin vào các trường cần thiết, sau đó click Lưu 
 - Nhà sản xuất: Nhập tên nhà sản xuất của thương hiệu.
 - Meta title, Meta Description, Meta Keywords: Các thẻ này liên quan đến SEO: Meta Title là thẻ tiêu đề website, một thẻ chắc chắn không thể thiếu trong công đoạn tối ưu onpage HTML, tiêu đề này sẽ được hiển thị khi tìm kiếm trên Google; Meta description cung cấp cho Google và các công cụ tìm kiếm bản tóm tắt nội dung của trang đó; Meta Keywords là một thẻ được dùng để khai báo các từ khóa dùng cho bộ máy tìm kiếm.
 - Nội dung: Nhập nội dung cho thương hiệu. Nội dung này sẽ được hiển thị như một bài viết trên website.
-### 2. Import thương hiệu bằng file Excel
+### Import thương hiệu bằng file Excel
 Bạn truy cập lần lượt vào Sản phẩm / Thương hiệu / click Thêm mới, chọn Import Excel, hoặc truy cập tại [đây](https://nhanh.vn/product/brand/index?tab=import)
 
 Bạn tải file Excel mẫu về, nhập thông tin vào file, sau đó import lên phần mềm Nhanh.vn.
@@ -45,7 +45,7 @@ Bước 2: Copy tên sản phẩm vào file import sản phẩm
 Bước 3: Nhập thương hiệu cho từng sản phẩm vào cột Thương hiệu trong file import, sau đó lưu lại file
 Bước 4: Import sản phẩm, chọn loại import là Cập nhật thông tin.
 
-# II. Gắn thương hiệu cho sản phẩm
+# Gắn thương hiệu cho sản phẩm
 
 Bạn có thể gắn thương hiệu cho sản phẩm bằng cách vào sửa từng sản phẩm (xem hướng dẫn tại đây) hoặc Import cập nhật sản phẩm (xem hướng dẫn tại đây).
 
