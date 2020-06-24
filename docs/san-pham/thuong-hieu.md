@@ -28,11 +28,11 @@ Bạn điền thông tin vào các trường cần thiết, sau đó click Lưu 
 - Meta title, Meta Description, Meta Keywords: Các thẻ này liên quan đến SEO: Meta Title là thẻ tiêu đề website, một thẻ chắc chắn không thể thiếu trong công đoạn tối ưu onpage HTML, tiêu đề này sẽ được hiển thị khi tìm kiếm trên Google; Meta description cung cấp cho Google và các công cụ tìm kiếm bản tóm tắt nội dung của trang đó; Meta Keywords là một thẻ được dùng để khai báo các từ khóa dùng cho bộ máy tìm kiếm.
 - Nội dung: Nhập nội dung cho thương hiệu. Nội dung này sẽ được hiển thị như một bài viết trên website.
 ### 2. Import thương hiệu bằng file Excel
-Bạn truy cập lần lượt vào Sản phẩm / Thương hiệu / click Thêm mới, chọn Import Excel, hoặc truy cập tại [đây](https://new.nhanh.vn/product/brand/index?tab=import)
+Bạn truy cập lần lượt vào Sản phẩm / Thương hiệu / click Thêm mới, chọn Import Excel, hoặc truy cập tại [đây](https://nhanh.vn/product/brand/index?tab=import)
 
 Bạn tải file Excel mẫu về, nhập thông tin vào file, sau đó import lên phần mềm Nhanh.vn.
 
-Sau khi thêm mới, bạn vào trang [Danh sách thương hiệu](https://new.nhanh.vn/product/brand/index) để kiểm tra lại:
+Sau khi thêm mới, bạn vào trang [Danh sách thương hiệu](https://nhanh.vn/product/brand/index) để kiểm tra lại:
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-thuonghieu.png)
 
