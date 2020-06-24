@@ -1,8 +1,8 @@
 # Sản phẩm tồn kho
 Sản phẩm tồn kho giúp bạn xem số tồn của sản phẩm ở tất cả các cửa hàng/kho hàng, mà không cần lọc theo từng cửa hàng để xem như tại trang Danh sách sản phẩm.
 **Tình huống sử dụng**
-- Bạn có 2 cửa hàng, muốn xem số tồn của sản phẩm A tại từng cửa hàng là bao nhiêu và tổng tồn tại tất cả các cửa hàng là bao nhiêu ==> xem tại [Danh sách sản phẩm tồn kho](https://new.nhanh.vn/product/item/inventory)
-Bạn truy cập theo lần lượt vàoSản phẩm / Sản phẩm tồn kho hoặc truy cập tại [đây](https://new.nhanh.vn/product/item/inventory).
+- Bạn có 2 cửa hàng, muốn xem số tồn của sản phẩm A tại từng cửa hàng là bao nhiêu và tổng tồn tại tất cả các cửa hàng là bao nhiêu ==> xem tại [Danh sách sản phẩm tồn kho](https://nhanh.vn/product/item/inventory)
+Bạn truy cập theo lần lượt vàoSản phẩm / Sản phẩm tồn kho hoặc truy cập tại [đây](https://nhanh.vn/product/item/inventory).
 Giao diện làm việc như sau:
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-sptonkho.png)
