@@ -43,3 +43,19 @@ Sau khi OA được duyệt, truy cập vào https://developers.zalo.me/docs/soc
 
 Click vào Lấy mã, copy đoạn mã nhúng đó
 
+## Bước 5
+Truy cập vào [tại đây](https://new.nhanh.vn/website/script/index?tab=add) để thêm đoạn mã vừa lấy được.
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/tich-hop-chat-zalo8.png)
+
+Click Tiếp tục để lưu lại.
+
+## Bước 6
+Quay trở lại trang web để kiểm tra xem box chat đã xuất hiện ở góc dưới bên phải màn hình chưa
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/tich-hop-chat-zalo9.png)
+
+## Bước 7
+Để xem và trả lời các tin nhắn, bạn truy cập vào https://oa.zalo.me/chatv2 hoặc tải app Zalo OA Admin trên Google Play (tại đây) hoặc App Store [tại đây](https://apps.apple.com/vn/app/zalo-oa-admin/id1336794925?l=vi)
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/tich-hop-chat-zalo10.png)
