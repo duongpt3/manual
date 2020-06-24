@@ -2,13 +2,9 @@
 
 ## Khái niệm
 
-Nhân viên là các tài khoản dùng để đăng nhập vào sử dụng hệ thống, mỗi nhân viên sẽ được gắn với nhóm quyền cụ thể để thực hiện các thao tác được phân cho nhóm quyền đó.
+* Nhân viên là các tài khoản dùng để đăng nhập vào sử dụng hệ thống, mỗi nhân viên sẽ được gắn với nhóm quyền cụ thể để thực hiện các thao tác được phân cho nhóm quyền đó.
 
-Video hướng dẫn thêm tài khoản nhân viên:
-
-{% youtube src="https://www.youtube.com/watch?v=FY8pd0SQGXc" %}{% endyoutube %}
-
-Ý nghĩa các nhóm quyền của nhân viên:
+* Ý nghĩa các nhóm quyền của nhân viên:
 
 Nhóm quyền |Ý nghĩa
 ------------ | -------------
