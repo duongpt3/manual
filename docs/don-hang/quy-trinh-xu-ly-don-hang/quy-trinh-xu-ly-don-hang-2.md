@@ -55,7 +55,7 @@ Tab này thống kê những đơn hàng đã giao thất bại và đang chuy�
 Hãng vận chuyển sẽ tiền hành đối soát với Nhanh một ngày sau khi đơn Thành công hoặc Chuyển hoàn.
 
 Lịch trình Hãng vận chuyển đối soát cho Nhanh.vn:
-**Hãng vận chuyển** | **Viettel Post** | **Giaohangnhanh** | **Giaohangtietkiem** | **Vietnam Post**
+[]() | **Viettel Post** | **Giaohangnhanh** | **Giaohangtietkiem** | **Vietnam Post**
 ------------ | ------------- | ------------- | ------------- | -------------
 Ngày trả đối soát | Thứ 2, 4, 6 | Thứ 2, 4, 6 | Thứ 2, 4, 6 | Thứ 2, 3, 4, 5, 6
 
@@ -72,3 +72,34 @@ Vietnam Post | Thứ 2, 3, 4, 5, 6 | Thứ 2, 3, 5
 Viettel Post | Thứ 2, 3, 5 | Thứ 2, 3, 5
 Giaohangtietkiem | Thứ 2, 3, 5 | Thứ 2, 3, 5
 Giaohangnhanh | Thứ 2, 3, 5 | Thứ 2, 3, 5
+
+### 6.3. Chiết khấu phí vận chuyển
+Doanh nghiệp tham khảo [tại đây](link)
+
+## 7. Xử lý đơn hàng hoàn - Nhân viên kho
+Trên Nhanh.vn - khi lịch trình của hãng vận chuyển cập nhật về là "Đã chuyển hoàn" thì Nhanh.vn vẫn để trạng thái đơn hàng là "Đang chuyển hoàn".
+
+Khi bưu tá mang hàng sang cửa hàng => Nhân viên kho thêm biên bản bàn giao - loại nhận hàng chuyển hoàn https://nhanh.vn/shipping/handover/add
+
+=> Tít mã vạch đơn hàng / gõ bằng tay từng ID đơn hàng
+
+Khi đó - đơn hàng tự động đổi trạng thái sang "Đã chuyển hoàn" - Trạng thái tồn kho của sản phẩm không còn "Đang chuyển" nữa - Tức là hàng đã về kho - nằm trong phần số tồn.
+
+## 8. Cập nhật trạng thái đơn hàng "Tự vận chuyển"
+
+Nếu bạn đưa hàng cho shiper - số lượng ít - và shiper trả tiền hàng mỗi ngày thì khi shiper về nộp tiền hàng => Vào biên bản của ngày hôm trước => tích và đổi trạng thái 1 loạt đơn hàng sang “Thành công”  hoặc “ Đã chuyển hoàn”
+
+Nếu như bạn đưa hàng cho hãng vận chuyển, số lượng nhiều - tiền COD trả lộn xộn không theo ngày gửi hàng => Import cập nhật trạng thái đơn hàng [tại đây](link).
+
+Hoặc vào danh sách đơn hàng - lọc nhiều ID đơn hàng cùng lúc tại ô “IDs”, mỗi ID cách nhau 1 dấu phẩy, sau đó cũng select và đổi trang thái đơn hàng sang “Thành công” - công viêc này dành cho kế toán.
+
+Lưu ý với hãng vận chuyển thì kế toán không cập nhật trạng thái “Đã chuyển hoàn” dựa vào file đối soát phí vận chuyển của hãng , mà nên để nhân viên kho tự đổi trạng thái khi nhận được hàng, như vậy sẽ không bị mất hàng.
+
+Với đơn tự vận chuyển, thì chấp nhận việc “Thành công” đồng nghĩa với “Đã thanh toán”
+
+Lời khuyên: Chỉ nhân viên kho được quyền phân quyền đổi trạng thái đơn hàng
+
+Nhân viên chăm sóc chỉ cần phân quyền “Xác nhận đơn hàng“ nếu muốn đổi đơn hàng mới đặt sang “Khách hủy” hoặc “Hệ thống hủy”.
+
+Bạn có thể tham khảo video hướng dẫn theo dõi và xử lí đơn hàng tại đây:
+{% youtube src="link" %}{% endyoutube %}
