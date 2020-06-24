@@ -5,7 +5,7 @@ Quản lý hàng hóa theo lô là cách theo dõi hàng hóa theo lô sản xu�
 Bán hàng sản phẩm theo lô trên Nhanh.vn
 ## 1. Khi tạo sản phẩm, bạn chọn Loại sản phẩm là "Sản phẩm bán theo Lô"
 Lưu ý quan trọng: Không đổi sản phẩm thường sang sản phẩm bán theo lô, vì sẽ dẫn đến lệch tồn.
-## 2. Bật các cài đặt liên quan tại [Cài đặt / Bán hàng và XNK](https://new.nhanh.vn/setting/store/sale)
+## 2. Bật các cài đặt liên quan tại [Cài đặt / Bán hàng và XNK](https://nhanh.vn/setting/store/sale)
 - Bật chức năng Bán hàng theo lô sản xuất
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-ynghia-losp.png)
