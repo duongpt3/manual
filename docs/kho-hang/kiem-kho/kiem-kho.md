@@ -17,7 +17,7 @@ Trong quá trình kinh doanh tất yếu xảy ra thất thoát, dẫn đến ch
 
 4. Bù trừ kiểm kho.
 
-## I. Thêm phiếu kiểm kho
+## Thêm phiếu kiểm kho
 
 Bạn truy cập lần lượt vào Kho hàng / Kiểm kho / Thêm phiếu kiểm kho hoặc truy cập tại đây.
 
@@ -25,11 +25,11 @@ Bạn truy cập lần lượt vào Kho hàng / Kiểm kho / Thêm phiếu kiể
 
 Click nút Tiếp tục để chuyển sang màn hình Thêm sản phẩm vào phiếu kiểm kho.
 
-## II. Thêm sản phẩm kiểm kho
+## Thêm sản phẩm kiểm kho
 
 Bạn nhập sản phẩm cần kiểm kho vào trường Sản phẩm. Để nhập sản phẩm kiểm kho, có 02 cách như sau:
 
-## 1.1. Nhập thủ công trực tiếp bằng tay vào hệ thống:
+### Nhập thủ công trực tiếp bằng tay vào hệ thống:
 
 - Hệ thống cho phép nhập bằng Mã vạch sản phẩm/Mã sản phẩm/Tên sản phẩm.
 - Sau khi hệ thống load tự động sản phẩm vào Danh sách sản phẩm kiểm kho, bạn cần cập nhật số lượng hàng tồn kho thực tế vào cột Số kiểm kho.
@@ -39,7 +39,7 @@ Bạn nhập sản phẩm cần kiểm kho vào trường Sản phẩm. Để nh
 
 Giao diện làm việc khi nhập sản phẩm kiểm kho như hình bên dưới:
 
-## 1.2. Import bằng file Excel: Click vào tab Import Excel để thực hiện thao tác Import kiểm kho bằng file Excel. Quy trình như sau
+### Import bằng file Excel: Click vào tab Import Excel để thực hiện thao tác Import kiểm kho bằng file Excel. Quy trình như sau
 
 - Tải file mẫu import về
 - Nhập tên sản phẩm/mã vạch/mã sản phẩm và số lượng sản phẩm tồn thực tế vào file import, sau đó save lại
@@ -49,7 +49,7 @@ Giao diện làm việc của Import kiểm kho như sau:
 
 (*) Lưu ý: Trong quá trình nhập liệu sản phẩm kiểm kê, để tránh rủi ro cho doanh nghiệp, hệ thống sẽ tự động lưu lại phiếu kiểm kho sau mỗi một thao tác thêm sản phẩm vào phiếu của bạn.
 
-## III. Tìm sản phẩm thiếu ( Với loại kiểm kho theo danh mục/ kiểm kho toàn bộ)
+## Tìm sản phẩm thiếu ( Với loại kiểm kho theo danh mục/ kiểm kho toàn bộ)
 
 Trong quá trình kiểm kho sẽ có trường hợp, sản phẩm có số tồn trên hệ thống tuy nhiên khi đi kiểm thì không còn sản phẩm nào ( tức là đã bị mất hang) thì trong phiếu kiểm kho bạn sẽ không thấy xuất hiện tên/ mã sản phẩm đó.
 
@@ -57,7 +57,7 @@ Trong quá trình kiểm kho sẽ có trường hợp, sản phẩm có số t�
 
 Đây là 1 bước rất quan trọng, nếu bạn không ấn nút này => hệ thống sẽ không tính toán được lượng hàng thừa thiếu của các sản phẩm không được kiểm này.
 
-## IV. Bù trừ kiểm kho
+## Bù trừ kiểm kho
 
 Bù trừ kiểm kho là nghiệp vụ chuyển khớp số lượng chênh lệch giữa hệ thống và tồn thực tế sau khi được kiểm kho.
 
@@ -65,7 +65,7 @@ Bản chất là đưa số liệu tồn kho của sản phẩm trên hệ thố
 
 Quy trình bù trừ kiểm kho được thực hiện như sau:
 
-## Bước 1: Truy cập vào Danh sách phiếu kiểm kho, tìm đến phiếu kiểm kho cần tiến hành bù trừ
+### Bước 1: Truy cập vào Danh sách phiếu kiểm kho, tìm đến phiếu kiểm kho cần tiến hành bù trừ
 
 Tại Danh sách phiếu kiểm kho, bạn sẽ bắt gặp một số khái niệm như:
 
@@ -77,13 +77,13 @@ Tại Danh sách phiếu kiểm kho, bạn sẽ bắt gặp một số khái ni�
 - Báo cáo: Click vào để xem chi tiết tổng số lượng sản phẩm thừa/thiếu trong mỗi lần kiểm kho
 - Bù trừ kiểm kho: Dùng để cân bằng lại số tồn trên hệ thống sao cho giống với số tồn thực thế (bằng cách tạo các phiếu XNK Khác)
 
-## Bước 2: Bù trừ kiểm kho
+### Bước 2: Bù trừ kiểm kho
 
 - Tại Danh sách phiếu kiểm kho, bạn click vào nút Bù trừ kiểm kho.
 - Hệ thống sẽ hiển thị màn hình Thêm phiếu xuất nhập kho bù trừ thừa thiếu theo phiếu kiểm kho, bạn tiếp tục click vào Thêm phiếu XNK
 - Lúc này, hệ thống sẽ tự động tạo 2 phiếu (Xuất kho và Nhập kho) để cân bằng lại số tồn.
 
-## Bước 3: Kiểm tra lại việc Bù trừ kiểm kho
+### Bước 3: Kiểm tra lại việc Bù trừ kiểm kho
 
 Sau khi bù trừ kiểm kho, bạn nên quay lại trang Danh sách phiếu kiểm kho để xem hệ thống đã tạo các phiếu Xuất/Nhập bù trừ kiểm kho chưa, và quay lại trang Danh sách sản phẩm để xem số tồn trên hệ thống đã khớp với số tồn thực tế vừa kiểm hay chưa.
 
