@@ -6,6 +6,7 @@ Bước 1: Vào trang chủ https://new.nhanh.vn/ sau đó kích vào Đăng nh�
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/tai-khoan/img/dang-nhap-1.PNG)
 
 Bước 2: Màn hình đăng nhập hiện lên yêu cầu bạn nhập Tên đăng nhập và Mật khẩu
+
 Nhập chính xác tên đăng nhập và mật khẩu của bạn sau đó ấn " Đăng nhập " để truy cập vào phần mềm 
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/tai-khoan/img/dang-nhap-tai-khoan-2.PNG)
