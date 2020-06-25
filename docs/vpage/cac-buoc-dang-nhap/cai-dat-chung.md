@@ -8,7 +8,7 @@
 
 ### Đăng nhập:
 
-* Truy cập vào link sau: https://vpage.nhanh.vn/, click ![Đăng nhập](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/%C4%90%C4%83ng%20nh%E1%BA%ADp.png)
+* Truy cập vào link sau: https://vpagetestweb1.nhanh.vn/, click ![Đăng nhập](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/%C4%90%C4%83ng%20nh%E1%BA%ADp.png)
 * Click đồng ý các quyền cần thiết để có thể sử dụng được Vpage
 * Thao tác tích chọn ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/T%C3%ADch%20ch%E1%BB%8Dn%20page.png) ==> ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/Truy%20c%E1%BA%ADp.png)
 
@@ -17,7 +17,10 @@
 ### Cài đặt ban đầu:
 Tại trang quản trị Vpage, người dùng truy cập lần lượt vào Khác / Cài đặt, hoặc [Tại đây](https://vpagetestweb1.nhanh.vn/app#!/sys/setting)
 
-* Để bật/tắt âm thanh thông báo, thêm mới tin nhắn mẫu, người dùng vào ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/C%C3%A0i%20%C4%91%E1%BA%B7t%20chung.png)
+* Để bật/tắt âm thanh thông báo, thêm mới tin nhắn mẫu người dùng vào ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/C%C3%A0i%20%C4%91%E1%BA%B7t%20chung.png)
+  * Quản lý hạn sử dụng: Chỉ quyền quản trị viên (Fanpage Admin) được sử dụng tính năng này, các quyền biên tập viên không được sử dụng.
+  
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/Chuy%E1%BB%83n%20HSD.png)
 * Để ẩn bình luận của khách, hiện bình luận seeding, người dùng vào Cài đặt Bình luận
 * Để thêm/sửa/xóa nhãn hội thoại, người dùng vào Cài đặt nhãn hội thoại
 
