@@ -19,7 +19,7 @@ Chọn lý do khiếu nại và nhập mô tả cụ thể cho khiếu nại đ�
 
 ![Giao diện làm việc của Khiếu nại đơn hàng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/khieu-nai-1.png)
 
-Click Thêm để hoàn tất.
+Click **Thêm** để hoàn tất.
 
 Ngoài ra, để thêm nhiều khiếu nại cùng lúc, bạn có thể dùng Import Khiếu nại bằng Excel [tại đây](link).
 
