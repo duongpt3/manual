@@ -29,6 +29,6 @@ Hệ thống Nhanh.vn kết nối realtime (thời gian thực) với hãng vậ
 
 **Bước 2:** Sau khi đơn hàng được hãng vận chuyển xử lý, hãng vận chuyển tự động cập nhật trạng thái (thành công/ thất bại) cho đơn hàng lên hệ thống Nhanh.vn
 
-Doanh nghiệp dễ dàng kiểm tra trực tiếp tại Danh sách đơn hàng [tại đây](link)
+Doanh nghiệp dễ dàng kiểm tra trực tiếp tại Danh sách đơn hàng [tại đây](https://new.nhanh.vn/order/manage/index)
 
 Tham khảo: [Quy trình vận hành của hãng vận chuyển](link)
