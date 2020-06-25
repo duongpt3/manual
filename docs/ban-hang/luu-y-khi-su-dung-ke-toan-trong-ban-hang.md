@@ -3,7 +3,8 @@
 **LƯU Ý: Sử dụng Hạch toán kế toán trong bán lẻ
 
 ## Tình Huống 1: Thanh toán hết
-**a- Khách hàng thanh toán tiền mặt bằng đúng số tiền cần thanh toán của hóa đơn.
+
+**Khách hàng thanh toán tiền mặt bằng đúng số tiền cần thanh toán của hóa đơn.
 
 Ví dụ: Tổng tiền cần thanh toán là 1.200.000
 
@@ -11,7 +12,7 @@ Ví dụ: Tổng tiền cần thanh toán là 1.200.000
 
 - Thanh toán theo các loại khác nhau: Nên điền tiền Chuyển khoản/Thẻ trước, sau đó điền số tiền còn lại vào ô Tiền mặt
 
-**b- Khách hàng thanh toán tiền mặt nhiều hơn số tiền cần thanh toán:
+**Khách hàng thanh toán tiền mặt nhiều hơn số tiền cần thanh toán:
 
 Ví dụ: hóa đơn 73.000, khách hàng đưa 75.000 hoặc 80.000 -> doanh nghiệp phải trả lại tiền thừa
 
@@ -25,7 +26,7 @@ Ví dụ: hóa đơn 73.000, khách hàng đưa 75.000 hoặc 80.000 -> doanh ng
 
 ## Tình huống 3: Trả hàng + Đổi hàng
 
-- TH1: Trả hàng với hóa đơn thanh toán hết (dù trả hết sản phẩm hay ko trả hết sp trong hóa đơn), không đổi hàng
+**TH1: Trả hàng với hóa đơn thanh toán hết (dù trả hết sản phẩm hay ko trả hết sp trong hóa đơn), không đổi hàng
 
 + Nếu có phí trả hàng nên điền ô "Phí trả hàng" trước
 
