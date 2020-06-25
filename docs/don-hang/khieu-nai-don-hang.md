@@ -17,7 +17,7 @@ Click nút ![](link) chọn Khiếu nại (Lưu ý chỉ những đơn hàng đ�
 
 Chọn lý do khiếu nại và nhập mô tả cụ thể cho khiếu nại đó.
 
-![Giao diện làm việc của Khiếu nại đơn hàng](link)
+![Giao diện làm việc của Khiếu nại đơn hàng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/khieu-nai-1.png)
 
 Click Thêm để hoàn tất.
 
@@ -27,4 +27,4 @@ Ngoài ra, để thêm nhiều khiếu nại cùng lúc, bạn có thể dùng I
 
 Tại danh sách đơn hàng, bạn chuyển sang tab Khiếu nại hoặc truy cập [vào đây](link) để xem các khiếu nại đã tạo đã được xử lý hay chưa, nội dung trả lời khiếu nại là gì.
 
-![](link)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/khieu-nai-2.png)
