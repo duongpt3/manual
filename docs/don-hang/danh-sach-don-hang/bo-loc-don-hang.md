@@ -1,16 +1,14 @@
 # Bộ lọc đơn hàng
 
-Bộ lọc đơn hàng giúp bạn tìm kiếm nhanh, chính xác đơn hàng. Giao diện làm việc của Bộ lọc đơn hàng được ẩn đi. Khi doanh nghiệp muốn sử dụng bộ lọc đầy đủ, chỉ cần click chuột vào chữ "Tìm kiếm"  để hiển thị bộ lọc.
+Bộ lọc đơn hàng giúp bạn tìm kiếm nhanh, chính xác đơn hàng. Giao diện làm việc của Bộ lọc đơn hàng được ẩn đi. Khi doanh nghiệp muốn sử dụng bộ lọc đầy đủ, chỉ cần bấm nút vào chữ "Tìm kiếm"  để hiển thị bộ lọc.
 
 Bộ lọc đầy đủ có giao diện như sau:
-![Giao diện của bộ lọc đầy đủ](link)
 
-- **Doanh nghiệp:** Đối với tài khoản quản trị nhiều doanh nghiệp thì cần sử dụng trường lọc này.
-
-
+![Giao diện của bộ lọc đầy đủ](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/bo-loc-don-hang-1.png)
 
 ## Nhóm lọc theo Thông tin đơn hàng
 
+- **Doanh nghiệp:** Đối với tài khoản quản trị nhiều doanh nghiệp thì cần sử dụng trường lọc này.
 - **ID:** Mỗi đơn hàng được tạo ra sẽ được gắn với 01 ID (để phân biệt với những đơn hàng khác). Ví dụ : 113245, 113256,...
 - **ID website tích hợp:** Là ID đơn hàng của những đơn hàng được đồng bộ từ các website của khách hàng về hệ thống.
 - **Sản phẩm:** Lọc theo tên sản phẩm trong đơn hàng
