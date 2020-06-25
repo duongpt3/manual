@@ -59,7 +59,7 @@
 
 ### Kết nối Ahamove
 
-* Bạn truy cập https://nhanh.vn/setting/order/shipping, tìm đến logo Ahamove, click nút Kết nối, sau đó điền số điện thoại bạn dùng để đăng nhập Ahamove và click Lưu
+* Vào trang [Cài đặt vận chuyển](https://nhanh.vn/setting/order/shipping), tìm đến logo Ahamove, click nút Kết nối, sau đó điền số điện thoại bạn dùng để đăng nhập Ahamove và click Lưu
 
 ![Điền số điện thoại đăng nhập Ahamove](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-ahamove.jpg)
 
@@ -79,4 +79,5 @@
 ---
 
 ### Kết nối Giao hàng tiết kiệm
-- Đang cập nhật
+
+* Đang cập nhật
