@@ -2,9 +2,9 @@
 Thêm đơn hàng giúp bạn thêm mới những đơn đặt hàng của khách.
 
 - Khách hàng gọi điện tới shop để đặt hàng, nhân viên xin khách thông tin cá nhân và sản phẩm cần mua, sau đó truy cập vào Thêm đơn hàng để tạo đơn cho khách.
-- Trường hợp khách đặt hàng trên fanpage Facebook, doanh nghiệp có thể vừa chat với khách, vừa tạo đơn hàng bằng phần mềm quản lý fanpage [Vpage.nhanh.vn](http://github.com)
+- Trường hợp khách đặt hàng trên fanpage Facebook, doanh nghiệp có thể vừa chat với khách, vừa tạo đơn hàng bằng phần mềm quản lý fanpage [Vpage.nhanh.vn](https://vpage.nhanh.vn/)
 
-Để thêm đơn hàng, doahnh nghiệp truy cập vào **Đơn hàng**, click **Thêm mới**, chọn **Thêm đơn hàng**, hoặc [tại đây](link).
+Để thêm đơn hàng, doahnh nghiệp truy cập vào **Đơn hàng**, bấm nút **Thêm mới**, chọn **Thêm đơn hàng**, hoặc [tại đây](https://new.nhanh.vn/order/manage/add).
 
 Giao diện Thêm đơn hàng được chia thành 2 tab, tùy theo mục đích sử dụng của doanh nghiệp.
 - Tab Dùng hãng vận chuyển dùng cho doanh nghiệp sử dụng vận chuyển qua Nhanh.vn.
@@ -38,11 +38,11 @@ Nhập thông tin thanh toán (trước/ đặt cọc) của đơn hàng, mức 
 - Thay đổi trạng thái đơn hàng 
 - Tùy chọn sau khi lưu dữ liệu
 
-Doanh nghiệp có thể tìm hiểu thêm về các trường thông tin trên [tại đây](https://manual.nhanh.vn/don-hang/gioi-thieu#9-doi-soat-don-hang)
+Doanh nghiệp có thể tìm hiểu thêm về các trường thông tin trên [tại đây](https://manual.nhanh.vn/don-hang/gioi-thieu)
 
 **Bước 2. Bấm Lưu hoặc Lưu & In phiếu gửi để hoàn tất các thao tác**
 
-Doanh nghiệp kiểm tra đơn hàng vừa tạo tại [Danh sách đơn hàng](link). Trạng thái đơn hàng vừa tạo thành công sẽ là **Mới**.
+Doanh nghiệp kiểm tra đơn hàng vừa tạo tại [Danh sách đơn hàng](https://new.nhanh.vn/order/manage/index). Trạng thái đơn hàng vừa tạo thành công sẽ là **Mới**.
 
 Có 3 tùy chọn sau khi lưu dữ liệu: Tiếp tục thêm đơn hàng, Về danh sách đơn hàng, Về trang chi tiết đơn hàng.
 
@@ -71,7 +71,7 @@ Tính năng này phù hợp cho bộ phận CSKH đang chat / gọi điện vớ
 - Đơn nháp vẫn có thể sửa / xác nhận lại thông tin như 1 đơn hàng bình thường.
 - Tính năng này không mở mặc định cho doanh nghiệp, xin quý khách vui lòng liên hệ nhân viên CSKH của Nhanh.vn để được tư vấn và hỗ trợ bật tính năng này.
 
-Sau khi thêm đơn hàng thành công, doanh nghiệp chuyển sang bước [Xác nhận đơn hàng](link).
+Sau khi thêm đơn hàng thành công, doanh nghiệp chuyển sang bước [Xác nhận đơn hàng](https://manual.nhanh.vn/don-hang/quy-trinh-xu-ly-don-hang/xac-nhan-don-hang).
 
 **Bạn có thể tham khảo video hướng dẫn thêm mới đơn hàng online trực tiếp trên phần mềm tại đây:**
-
+{% youtube src="link" %}{% endyoutube %}
