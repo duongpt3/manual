@@ -15,16 +15,16 @@ Bộ lọc đầy đủ có giao diện như sau:
 - **Sản phẩm:** Lọc theo tên sản phẩm trong đơn hàng
 - **Danh mục sản phẩm:** Lọc theo danh mục sản phẩm trong đơn hàng 
 - **IMEI:** Lọc theo số IMEI của sản phẩm (áp dụng đối với sản phẩm có thuộc tính IMEI như điện thoại, máy tính bảng, đồ điện tử...)
-- **Loại đơn :** Hình thức mua hàng của khách hàng, bao gồm: *(cập nhật lại)*
+- **Loại đơn :** Hình thức mua hàng của khách hàng, bao gồm: 
   - Chuyển hàng: Khách hàng chọn hình thức nhận hàng tại nhà (doanh nghiệp vận chuyển hàng cho khách hàng).
   - Đặt trước: Khách hàng đã thanh toán trước một phần giá trị đơn hàng (nhằm mục đích muốn doanh nghiệp giữ hàng (chắc chắn chuyển hàng) cho khách hàng.
   - Mua tại quầy: Khách hàng đến tại cửa hàng của doanh nghiệp, mua hàng và thanh toán trực tiếp.
   - Mua nhanh: Áp dụng với những đơn hàng...
   - Dùng thử: Khách hàng muốn dùng thử, trải nghiệm về sản phẩm trước khi mua (áp dụng với những sản phẩm công nghệ, gia dụng, điện tử, điện lạnh,...)
   - Đổi quà: Là loại đơn hàng sử dụng tính năng đổi điểm tích lũy sang quà tặng
-  - Xin báo giá: 
+  - Xin báo giá: Loại đơn xin báo giá sản phẩm
 - **Loại giá bán:** Lọc theo đơn hàng bán theo giá bán lẻ hoặc bán buôn.
-- **Kênh bán:** Nguồn gốc đơn hàng, bao gồm: *(Cập nhật lại)*
+- **Kênh bán:** Nguồn gốc đơn hàng, bao gồm: 
   - Website: Khách hàng đặt hàng trực tiếp từ website
   - Admin: Doanh nghiệp tạo đơn hàng trực tiếp từ hệ thống Nhanh.vn
   - Nguồn tích hợp: Đơn hàng từ các sàn TMĐT (Vật giá, Shopee, Lazada, Sendo, Tiki, Adayroi), tích hợp từ API, Facebook, Instagram, zalo
