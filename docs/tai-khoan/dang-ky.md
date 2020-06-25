@@ -17,3 +17,9 @@ Tại bước này bạn có thể đăng ký sử dụng đồng thời cả ph
 Video hướng dẫn chi tiết:
  
 {% youtube src="https://www.youtube.com/watch?v=LymV4oRaLUw" %}{% endyoutube %} 
+ 
+Như vậy, Nhanh.vn đã thực hiện xong phần hướng dẫn Đăng ký tài khoản.
+
+Mọi thắc mắc xin liên hệ tổng đài tổng đài hỗ trợ 1900 2812 email cho chúng tôi tại địa chỉ: contact@nhanh.vn để được hỗ trợ và giải đáp.
+
+Chúc Quý khách thành công!
