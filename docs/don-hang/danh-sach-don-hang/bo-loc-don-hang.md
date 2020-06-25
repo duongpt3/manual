@@ -9,7 +9,8 @@ Bộ lọc đầy đủ có giao diện như sau:
 ## Nhóm lọc theo Thông tin đơn hàng
 
 - **Doanh nghiệp:** Đối với tài khoản quản trị nhiều doanh nghiệp thì cần sử dụng trường lọc này.
-- **ID:** Mỗi đơn hàng được tạo ra sẽ được gắn với 01 ID (để phân biệt với những đơn hàng khác). Ví dụ : 113245, 113256,...
+- **ID:** Mỗi đơn hàng được tạo ra sẽ được gắn với 01 ID (để phân biệt với những đơn hàng khác). 
+- **IDs:** Cho phép người dùng tìm nhiều ID đơn hàng cùng 1 lúc, Ví dụ: 113245, 113256,...
 - **ID website tích hợp:** Là ID đơn hàng của những đơn hàng được đồng bộ từ các website của khách hàng về hệ thống.
 - **Sản phẩm:** Lọc theo tên sản phẩm trong đơn hàng
 - **Danh mục sản phẩm:** Lọc theo danh mục sản phẩm trong đơn hàng 
