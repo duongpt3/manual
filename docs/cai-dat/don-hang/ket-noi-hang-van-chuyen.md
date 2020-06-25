@@ -15,7 +15,7 @@
 
 ### Kết nối Giao Hàng Nhanh
 
-* Bước 1: Bạn truy cập https://sso.ghn.vn/v2/ssoLogin và đăng nhập bằng tài khoản của GHN
+* Bước 1: Bạn vào trang https://sso.ghn.vn/v2/ssoLogin và đăng nhập bằng tài khoản của GHN
 
 ![Đăng nhập GHN Express](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-ghn.jpg)
 
@@ -23,25 +23,29 @@
 
 ![Lấy token GHN Express](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-ghn-1.jpg)
 
-* Bước 3: Truy cập https://nhanh.vn/setting/order/shipping, tìm đến logo GHN, click nút Kết nối, sau đó điền token và click Lưu
+* Bước 3: Vào trang [Cài đặt vận chuyển](https://nhanh.vn/setting/order/shipping), tìm đến logo GHN, click nút Kết nối, sau đó điền token và click Lưu
 
 ![Điền token vào mục cài đặt vận chuyển trên Nhanh](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-ghn-2.jpg)
 
 ### Kết nối Viettel Post
 
-* Bạn truy cập https://nhanh.vn/setting/order/shipping, tìm đến logo Viettel Post, click nút Kết nối, sau đó điền tài khoản và mật khẩu Viettel Post vào và click Lưu
+* Vào trang [Cài đặt vận chuyển](https://nhanh.vn/setting/order/shipping), tìm đến logo Viettel Post, click nút Kết nối, sau đó điền tài khoản và mật khẩu Viettel Post vào và click Lưu
 
 ![Điền tài khoản và mật khẩu Viettel Post](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-viettel-pos.jpg)
 
 ### Kết nối Việt Nam Post
 
-* Bạn truy cập https://nhanh.vn/setting/order/shipping, tìm đến logo Vietnam Post, click nút Kết nối, sau đó điền mã khách hàng VNpost của bạn và click Lưu
+* Bước 1: Bạn liên hệ với Vietnam Post để ký hợp đồng và yêu cầu họ cung cấp mã khách hàng.
+
+* Bước 2: Vào trang [Cài đặt vận chuyển](https://nhanh.vn/setting/order/shipping), tìm đến logo Vietnam Post, click nút Kết nối, sau đó điền mã khách hàng VNpost của bạn và click Lưu
 
 ![Điền mã khách hàng Vietnam Post](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-vietnam-post.jpg)
 
 ### Kết nối JT Express
 
-* Bạn truy cập https://nhanh.vn/setting/order/shipping, tìm đến logo J&T Express, click nút Kết nối, sau đó điền mã khách hàng J&T Express của bạn và click Lưu
+* Bước 1: Bạn liên hệ với J&T Express để ký hợp đồng và yêu cầu họ cung cấp mã khách hàng.
+
+* BVào trang [Cài đặt vận chuyển](https://nhanh.vn/setting/order/shipping), tìm đến logo J&T Express, click nút Kết nối, sau đó điền mã khách hàng J&T Express của bạn và click Lưu
 
 ![Điền mã khách hàng J&T Express](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-jt-express.jpg)
 
