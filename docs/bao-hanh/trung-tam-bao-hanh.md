@@ -10,7 +10,7 @@ Chuyển sản phẩm sang trung tâm bảo hành
 
 Nhận sản phẩm từ trung tâm bảo hành.
 
-## 1. Thêm trung tâm bảo hành
+## Thêm trung tâm bảo hành
 
 - Truy cập lần lượt vào Bảo hành / Trung tâm bảo hành / click Thêm mới, hoặc truy cập [tại đây](https://nhanh.vn/warranty/setting/servicecenter?tab=add)
 
@@ -19,7 +19,7 @@ Nhận sản phẩm từ trung tâm bảo hành.
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/bao-hanh/img/trung-tam-bao-hanh.jpg)
 
-## 2. Chuyển sản phẩm sang trung tâm bảo hành
+## Chuyển sản phẩm sang trung tâm bảo hành
 
 Sau khi tiếp nhận bảo hành, doanh nghiệp kiểm tra xem sản phẩm được bảo hành ở trung tâm nào, sau đó thực hiện thao tác chuyển sản phẩm sang trung tâm bảo hành:
 
@@ -35,7 +35,7 @@ Tại trang Lịch sử bảo hành, doanh nghiệp có thể dùng Tìm kiếm 
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/bao-hanh/img/trung-tam-bao-hanh3.jpg)
 
-## 3. Nhận sản phẩm từ trung tâm bảo hành
+## Nhận sản phẩm từ trung tâm bảo hành
 
 Sau khi đã lấy sản phẩm từ trung tâm bảo hành về, doanh nghiệp vào [Lịch sử bảo hành](https://nhanh.vn/warranty/history/index), tick chọn phiếu, click Thao tác, chọn Nhận sản phẩm từ trung tâm bảo hành.
 
