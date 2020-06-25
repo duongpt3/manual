@@ -56,15 +56,16 @@ Trong đó:
   - Thêm đơn hàng vào biên bản: Dùng để thêm đơn vào biên bản bàn giao cho hãng vận chuyển khi hãng vận chuyển đang nhận hoặc chưa đến nhận bàn giao.(Không dùng trong trường hợp đã lấy hàng).
   - Xóa biên bản bàn giao vận đơn.
   
-  ## Thêm biên bản bàn giao vận đơn
+## Thêm biên bản bàn giao vận đơn
+
 Thêm biên bản bàn giao vận đơn giúp bạn thực hiện nghiệp vụ thêm biên bản bàn giao đơn hàng cho hãng vận chuyển.
 
 Sau khi doanh nghiệp gửi đơn qua bên hãng vận chuyển, nhân viên hãng vận chuyển sẽ qua trực tiếp kho / cửa hàng bàn giao đơn hàng để tiếp nhận đơn hàng. Hai bên cần tiến hành xác lập biên bản bàn giao để xác thực quá trình bàn giao. 
 
-Để làm việc tại đây, bạn truy cập vào Đơn hàng / Biên bản bàn giao vận đơn, sau đó click vào nút thêm mới hoặc truy cập [tại đây](link).
+Để làm việc tại đây, bạn truy cập vào Đơn hàng / Biên bản bàn giao vận đơn, sau đó click vào nút **Thêm mới** hoặc truy cập [tại đây](https://new.nhanh.vn/shipping/handover/add).
 
 ### QUY TRÌNH LẬP BIÊN BẢN BÀN GIAO VẬN ĐƠN
-**Bước 1:** Truy cập vào [Thêm biên bản bàn giao vận đơn](link)
+**Bước 1:** Truy cập vào [Thêm biên bản bàn giao vận đơn](https://new.nhanh.vn/shipping/handover/add)
 
 **Bước 2:** Nhập liệu thông tin
 
@@ -84,7 +85,7 @@ Trong đó:
 
 **Bước 3:** Lưu biên bản bàn giao vận đơn
 
-Doanh nghiệp có thể in biên bản bàn giao với 2 tùy chọn là In biên bản đầy đủ và In biên bản rút gọn. Đồng thời với bước in, hệ thống sẽ lưu biên bản bàn giao hàng hóa vào Danh sách biên bản bàn giao vận đơn [tại đây](link).
+Doanh nghiệp có thể in biên bản bàn giao với 2 tùy chọn là In biên bản đầy đủ và In biên bản rút gọn. Đồng thời với bước in, hệ thống sẽ lưu biên bản bàn giao hàng hóa vào Danh sách biên bản bàn giao vận đơn [tại đây](https://new.nhanh.vn/shipping/handover/index).
 
 Bước 4: Gửi và in biên bản bàn giao vận đơn
 
