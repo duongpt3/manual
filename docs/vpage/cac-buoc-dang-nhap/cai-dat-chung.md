@@ -17,7 +17,7 @@
 ### Cài đặt ban đầu:
 Tại trang quản trị Vpage, người dùng truy cập lần lượt vào Khác / Cài đặt, hoặc [Tại đây](https://vpagetestweb1.nhanh.vn/app#!/sys/setting)
 
-* Để bật/tắt âm thanh thông báo, thêm mới tin nhắn mẫu người dùng vào **Cài đặt chung**
+* Để bật/tắt âm thanh thông báo, hiển thị hội thoại người dùng vào **Cài đặt chung**
 * Quản lý hạn sử dụng: Chỉ quyền quản trị viên (Fanpage Admin) được sử dụng tính năng này, các quyền biên tập viên không được sử dụng.
 
  
