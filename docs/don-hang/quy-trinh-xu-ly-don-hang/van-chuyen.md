@@ -23,7 +23,7 @@ Quy trình theo dõi lịch trình như sau:
 
 **Bước 1:** Click vào tab Lịch trình trong trang chi tiết đơn hàng. Giao diện làm việc hiển thị như hình bên dưới:
 
-![Giao diện làm việc của Quá trình xử lý đơn hàng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/van-chuyen-1.png)
+![Giao diện làm việc của Quá trình xử lý đơn hàng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/van-chuyen%20-%201.png)
 
 Hệ thống Nhanh.vn kết nối realtime (thời gian thực) với hãng vận chuyển, lịch trình đi của đơn hàng sẽ được cập nhật liên tục và chính xác. Giúp doanh nghiệp kiểm soát được lịch trình cũng như các trạng thái đơn hàng đang được giao. 
 
