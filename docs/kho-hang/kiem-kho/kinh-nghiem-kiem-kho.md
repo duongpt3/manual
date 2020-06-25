@@ -4,9 +4,9 @@ Có rất nhiều yếu tố, nguyên nhân khiến số tồn kho khác với s
 
 Nhanh.vn xin đưa ra một số kinh nghiệm kiểm kho giúp cho quá trình kiểm kho của doanh nghiệp luôn chính xác nhất.
 
-## 1. Những điều cần lưu ý trước khi kiểm kho
+## Những điều cần lưu ý trước khi kiểm kho
 
-### 1.1 Kiểm tra và cập nhật lại đúng trạng thái cho đơn hàng
+### Kiểm tra và cập nhật lại đúng trạng thái cho đơn hàng
 
 a, [Danh sách đơn hàng](https://new.nhanh.vn/order/manage/index)
 
@@ -26,7 +26,7 @@ b, Danh sách đơn hàng trên các Sàn TMĐT (Shopee, Lazada, Sendo, Tiki....
 
 - Check ở tab trả hàng, xem có đơn hàng nào đã hoàn về và nhận được, thì cần đổi trạng thái đơn hàng đó sang “Đã chuyển hoàn” để tồn của sản phẩm được ghi nhận vào Tồn trong kho để kiểm đếm.
 
-### 1.2 Kiểm tra, rà soát lại các phiếu chuyển kho, phiếu yêu cầu XNK chưa hoàn thiện Duyệt hoặc Xác nhận
+### Kiểm tra, rà soát lại các phiếu chuyển kho, phiếu yêu cầu XNK chưa hoàn thiện Duyệt hoặc Xác nhận
 
 Dành cho các doanh nghiệp sử dụng đến tính năng Chuyển kho (giữa 2 hay nhiều kho hàng trên Nhanh) hoặc Bán Chéo Doanh nghiệp (Cho phép bán hàng giữa 2 Doanh nghiệp cùng dùng Nhanh.vn)
 
@@ -38,11 +38,11 @@ VD: Với hành động Chuyển kho:
 
 - Đối với kho nhận hàng, hành động “Xác nhận” đồng nghĩa với việc cộng thêm tồn vào kho
 
-### 1.3 Tính toán lại số Tạm giữ và Đang chuyển
+### Tính toán lại số Tạm giữ và Đang chuyển
 
-## 2. Kinh nghiệm kiểm kho
+## Kinh nghiệm kiểm kho
 
-### 2.1 Trường hợp dùng Máy quét mã vạch
+### Trường hợp dùng Máy quét mã vạch
 
 Máy quét mã vạch (đầu tít mã vạch) giúp quá trình kiểm kho được tiến hành một cách nhanh chóng và dễ dàng. Tuy nhiên, nếu bạn không đưa ra được một quy trình kiểm kho chặt chẽ, việc sai sót là khó tránh khỏi.
 
@@ -54,14 +54,14 @@ Một số trường hợp mà đa số các doanh nghiệp hay gặp phải nh�
 - Dán sai tem/In sai tem của sản phẩm: Tem mã vạch của sản phẩm này được dán cho sản phẩm kia, hệ thống không phân biệt được chính xác mã vạch được kiểm là của sản phẩm nào.
 - Import 01 file nhiều lần.
 
-### 2.2 Cách khắc phục, giảm thiểu rủi ro kiểm kho
+### Cách khắc phục, giảm thiểu rủi ro kiểm kho
 
 - Phân tách khu vực, đánh dấu khu vực/dãy hàng/kệ hàng trước khi kiểm kho.
 - Mỗi phân khu nên kiểm bởi 01 file Import, tránh kiểm kho 02 khu vực trên 01 file Import kiểm kho.
 - Đánh tên file kiểm kho theo khu vực kiểm để tránh trường hợp import nhầm file, import nhiều lần.
 - Nên kiểm kê thủ công trước để so sánh với số lượng được ghi nhận thông qua máy quét (đầu tít) mã vạch, giảm thiểu tối đa sai sót về lượng.
 
-## 3. Rà soát lại hàng hóa sau kiểm kho
+## Rà soát lại hàng hóa sau kiểm kho
 
 Sau khi kiểm kho, ghi nhận số lượng hàng hóa thất thoát, mất mát. Bạn nên kiểm tra lại để đảm bảo tính chính xác của kết quả kiểm kho.
 
