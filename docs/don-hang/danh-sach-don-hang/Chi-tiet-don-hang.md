@@ -6,11 +6,11 @@ Trang chi tiết đơn hàng giúp bạn theo dõi toàn bộ thông tin chi ti�
 
 Chi tiết ID đơn hàng bao gồm 5 tab: Thông tin, Lịch trình,  In & Đóng gói, Thanh toán, Khiếu nại.
 
-![](link)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-9.png)
 
 # Thông tin Đơn hàng
 
-![Giao diện làm việc của tab Thôn tin đơn hàng](link)
+![Giao diện làm việc của tab Thôn tin đơn hàng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-1.png)
 
 Thông tin đơn hàng là tab hiển thị chi tiết các thông tin về doanh nghiệp, khách hàng, sản phẩm, cước phí, lịch trình vận chuyển để doanh nghiệp nắm bắt được chính xác từng giai đoạn, lịch trình và thời gian thực hiện đơn hàng
 
@@ -18,7 +18,7 @@ Thông tin đơn hàng là tab hiển thị chi tiết các thông tin về doan
 
 Tab lịch trình vận chuyển thể hiện lịch trình vận chuyển của đơn hàng từ khi đơn hàng được đặt mới cho đến khi đơn hàng được giao thành công (hủy đơn và chuyển hoàn thành công). 
 
-![Giao diện làm việc của tab Lịch trình đơn hàng](link)
+![Giao diện làm việc của tab Lịch trình đơn hàng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-2.png)
 
 ## In và đóng gói
 
@@ -38,15 +38,15 @@ Tab thông tin khiếu nại cho phép doanh nghiệp quản lý và thêm yêu 
 
 Giao diện làm việc của tab này như sau:
 
-![Giao diện làm việc của tab Thông tin khiếu nại](link)
+![Giao diện làm việc của tab Thông tin khiếu nại](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-4.png)
 
-Để thêm khiếu nại, người dùng click vào nút   để hiện ra bảng thêm khiếu nại:
+Để thêm khiếu nại, người dùng click vào nút ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-5.png)  để hiện ra bảng thêm khiếu nại:
 
-![](link)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-6.png)
 
 Người dùng chọn lý do khiếu nại từ khách hàng từ danh sách sau:
 
-![](link)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-7.png)
 
 Nhập nội dung khiếu nại vào trường Khiếu nại
 
@@ -54,7 +54,7 @@ Sau khi nhập liệu xong, click nút "Thêm" để lưu lại khiếu nại ho
 
 Khiếu nại vừa được thêm có dạng như sau:
 
-![](link)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-8.png)
 
 
 
