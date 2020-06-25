@@ -2,7 +2,7 @@
 
 Trang chi tiết đơn hàng giúp bạn theo dõi toàn bộ thông tin chi tiết về một đơn hàng cụ thể
 
-Để vào trang chi tiết đơn hàng, bạn click theo từng ID đơn hàng cụ thể tại cột ID đơn hàng trong Danh sách đơn hàng.
+Để vào trang chi tiết đơn hàng, bạn click theo từng ID đơn hàng cụ thể tại cột ID đơn hàng trong [Danh sách đơn hàng](https://new.nhanh.vn/order/manage/index).
 
 Chi tiết ID đơn hàng bao gồm 5 tab: Thông tin, Lịch trình,  In & Đóng gói, Thanh toán, Khiếu nại.
 
