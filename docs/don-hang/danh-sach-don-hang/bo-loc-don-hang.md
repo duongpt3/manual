@@ -28,7 +28,7 @@ Bộ lọc đầy đủ có giao diện như sau:
 - **Kênh bán:** Nguồn gốc đơn hàng, bao gồm: *(Cập nhật lại)*
   - Website: Khách hàng đặt hàng trực tiếp từ website
   - Admin: Doanh nghiệp tạo đơn hàng trực tiếp từ hệ thống Nhanh.vn
-  -Nguồn tích hợp: Đơn hàng từ các sàn TMĐT (Vật giá, Shopee, Lazada, Sendo, Tiki, Adayroi), tích hợp từ API, Facebook, Instagram, zalo
+  - Nguồn tích hợp: Đơn hàng từ các sàn TMĐT (Vật giá, Shopee, Lazada, Sendo, Tiki, Adayroi), tích hợp từ API, Facebook, Instagram, zalo
 - **Nguồn đơn hàng:** Lọc theo các nguồn đơn hàng mà doanh nghiệp đã thêm lên hệ thống.
 - **Ghi chú:** Ghi chú, mô tả thêm của khách hàng về đơn hàng
 - **Ghi chú CSKH:** Ghi chú, mô tả thêm của nhân viên chăm sóc khách hàng về đơn hàng
@@ -73,7 +73,7 @@ Bộ lọc đầy đủ có giao diện như sau:
   - Chưa chuyển tiền: Đơn hàng chưa được Nhanh.vn thanh toán tiền thu hộ cho doanh nghiệp
   - Đã duyệt chuyển tiền: Đơn hàng đã được Nhanh.vn đối soát để thanh toán
   - Đang duyệt chuyển tiền: Đơn hàng đang chờ được Nhanh.vn đối soát để thanh toán
-- **Thanh toán từ ngày/ Thanh toán đến ngày: Lọc ngày thanh toán đơn hàng
+- **Thanh toán từ ngày/ Thanh toán đến ngày:** Lọc ngày thanh toán đơn hàng
 - **Chiết khấu vận chuyển:** Lọc đơn hàng có hoặc không có chiết khấu
 - **Mã Coupon:** Mã coupon của đơn hàng có coupon
 - **Thu của khách:** Lọc đơn hàng có hoặc không có phí thu của khách
