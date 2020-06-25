@@ -27,11 +27,15 @@
 
 ![Điền token vào mục cài đặt vận chuyển trên Nhanh](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-ghn-2.jpg)
 
+---
+
 ### Kết nối Viettel Post
 
 * Vào trang [Cài đặt vận chuyển](https://nhanh.vn/setting/order/shipping), tìm đến logo Viettel Post, click nút Kết nối, sau đó điền tài khoản và mật khẩu Viettel Post vào và click Lưu
 
 ![Điền tài khoản và mật khẩu Viettel Post](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-viettel-pos.jpg)
+
+---
 
 ### Kết nối Việt Nam Post
 
@@ -41,6 +45,8 @@
 
 ![Điền mã khách hàng Vietnam Post](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-vietnam-post.jpg)
 
+---
+
 ### Kết nối JT Express
 
 * Bước 1: Bạn liên hệ với J&T Express để ký hợp đồng và yêu cầu họ cung cấp mã khách hàng.
@@ -49,11 +55,15 @@
 
 ![Điền mã khách hàng J&T Express](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-jt-express.jpg)
 
+---
+
 ### Kết nối Ahamove
 
 * Bạn truy cập https://nhanh.vn/setting/order/shipping, tìm đến logo Ahamove, click nút Kết nối, sau đó điền số điện thoại bạn dùng để đăng nhập Ahamove và click Lưu
 
 ![Điền số điện thoại đăng nhập Ahamove](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-ahamove.jpg)
+
+---
 
 ### Kết nối EcoTrans
 
@@ -65,6 +75,8 @@
 * Bước 3: Truy cập https://nhanh.vn/setting/order/shipping, tìm đến logo EcoTrans, click nút Kết nối, sau đó điền token và click Lưu
 
 ![Điền token EcoTrans](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-ecotrans-1a.jpg)
+
+---
 
 ### Kết nối Giao hàng tiết kiệm
 - Đang cập nhật
