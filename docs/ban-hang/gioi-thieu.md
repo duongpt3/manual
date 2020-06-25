@@ -13,7 +13,7 @@ Các nghiệp vụ mà bạn có thể thực hiện trong Bán hàng
 - [Xem danh sách hóa đơn bán buôn](https://nhanh.vn/pos/bill/wholesale)
 - [Xem danh sách hóa đơn trả hàng](https://nhanh.vn/product/retail/returns)
 
-## I.Quy trình bán Lẻ/bán Buôn
+## Quy trình bán Lẻ/bán Buôn
 
 1- Khách lấy sản phẩm muốn mua ra quầy thu ngân
 
@@ -42,7 +42,7 @@ Lưu ý: số điểm được quy đổi thành bao nhiêu tiền và quy đị
 Xem chi tiết hướng dẫn tạo hóa đơn bán lẻ [tại đây]
 Xem chi tiết hướng dẫn tạo hóa đơn bán buôn [tại đây]
 
-## II.Quy trình trả hàng(khách có mang theo hoá đơn)
+## Quy trình trả hàng(khách có mang theo hoá đơn)
 
 1- Khách hàng mang hóa đơn và sản phẩm muốn trả
 
@@ -55,7 +55,7 @@ Xem chi tiết hướng dẫn tạo hóa đơn bán buôn [tại đây]
 Lưu ý: kiểm tra khách đã thanh toán tiền chưa, số điểm sử dụng, sử dụng cài đặt "Chuyển điểm tích lũy thành phí trả hàng (Nếu khách không đủ điểm tích lũy để thu hồi, hệ thống sẽ tự động chuyển thành phí trả hàng)", quà tặng kèm, bảo hành mở rộng.
 - Với IMEI đích danh, khi trả hàng theo hóa đơn thì giá nhập và giá vốn vẫn giữ nguyên với giá nhập ban đầu
 
-## III.Quy trình trả hàng không cần hoá đơn
+## Quy trình trả hàng không cần hoá đơn
 
 1- Khách mang sản phẩm đến trả.
 
@@ -69,7 +69,7 @@ Lưu ý:
 - Trả sản phẩm IMEI mà IMEI lại gắn cho sản phẩm khác -> khi lưu hệ thống sẽ báo lỗi, không lưu được.
 - Với IMEI đích danh, khi dùng tính năng này giá nhập IMEI = giá vốn = giá nhập trả vào vì thao tác trả hàng không cần hóa đơn đang coi như nhập hàng mới từ khách hàng.
 
-## IV.Một số khái niệm bán hàng
+## Một số khái niệm bán hàng
 Khái niệm | Ý nghĩa
 ------------------ | -------------------
 IMEI | Mã IMEI của các sản phẩm IMEI, khi mua sản phẩm IMEI thì bắt buộc phải điền mã IMEI và IMEI đấy đang gắn với cửa hàng/kho và ở trạng thái mới
@@ -102,7 +102,7 @@ Lưu ý:
 - Nếu bạn cài đặt "Chuyển điểm tích lũy thành phí trả hàng" thì hệ thống sẽ tự động quy đổi điểm mà khách hàng thiếu để trả lại thành phí trả hàng.
 - Hệ thống không tự động hạch toán số tiền thừa mà khách hàng đưa cho doanh nghiệp, nên bạn cần điền đúng số tiền khách cần thành toán hoặc tạo phiếu chi bằng tay để hạch toán tiền thừa trả lại cho khách hàng
 
-## V.Nhập máy cũ(IMEI)
+## Nhập máy cũ(IMEI)
 
 Thường sử dụng khi có khách hàng muốn bán IMEI cũ cho doanh nghiệp, bạn muốn tạo phiếu nhập NCC nhưng lại ghi thông tin dưới dạng khách hàng.
 
