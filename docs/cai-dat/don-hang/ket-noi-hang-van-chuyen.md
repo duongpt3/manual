@@ -82,7 +82,7 @@
 
 ![Lấy token EcoTrans](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/lay-token-ecotrans.jpg)
 
-* Bước 3: Truy cập https://new.nhanh.vn/setting/order/shipping, tìm đến logo EcoTrans, click nút Kết nối, sau đó điền token và click Lưu
+* Bước 3: Vào trang [Cài đặt vận chuyển](https://new.nhanh.vn/setting/order/shipping), tìm đến logo EcoTrans, click nút Kết nối, sau đó điền token và click Lưu
 
 ![Điền token EcoTrans](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-ecotrans-1a.jpg)
 
