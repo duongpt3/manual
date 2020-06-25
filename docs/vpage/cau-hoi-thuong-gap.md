@@ -6,7 +6,7 @@ Cách 2: Khi kích hoạt Vpage anh/chị đã không cho phép đủ quyền đ
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/B%C3%ACnh%20lu%E1%BA%ADn.png)
 
-Tại [](https://nhanh.vn/manual/item/view?id=510)
+Tại [đây](https://nhanh.vn/manual/item/view?id=510)
 
 **ghg**
 *h*
