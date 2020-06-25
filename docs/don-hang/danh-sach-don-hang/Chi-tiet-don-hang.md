@@ -24,7 +24,7 @@ Tab lịch trình vận chuyển thể hiện lịch trình vận chuyển của
 
 **Tab này cho phép doanh nghiệp in phiếu gửi đơn hàng với nhiều kích cỡ, loại giấy khác nhau.**
 
-![Giao diện làm việc của tab In và đóng gói](link)
+![Giao diện làm việc của tab In và đóng gói](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-3.png)
 
 ## Thông tin thanh toán
 
