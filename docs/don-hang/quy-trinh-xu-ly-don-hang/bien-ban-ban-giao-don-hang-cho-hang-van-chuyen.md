@@ -11,7 +11,7 @@ Biên bản bàn giao vận đơn dùng để xác nhận một trong hai trư�
 
 - Bạn đã gửi hàng sang cho hãng vận chuyển chưa?
 - Bạn đã nhận lại hàng do hãng vận chuyển chuyển hoàn chưa?
-Để làm việc tại đây, bạn truy cập vào Đơn hàng / Biên bản bàn giao vận đơn, hoặc truy cập [tại đây](link).
+Để làm việc tại đây, bạn truy cập vào Đơn hàng / Biên bản bàn giao vận đơn, hoặc truy cập [tại đây](https://new.nhanh.vn/shipping/handover/index).
 
 Giao diện làm việc của Danh sách biên bản bàn giao vận đơn như sau:
 
@@ -19,20 +19,18 @@ Giao diện làm việc của Danh sách biên bản bàn giao vận đơn như 
 
 ## Bộ lọc 
 
-![Giao diện làm việc của bộ lọc](link)
+![Giao diện làm việc của bộ lọc](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/bien-ban-ban-giao-7.png)
 
 Trong đó:
 - **ID:** Lọc ID của Biên bản bàn giao. 
 - **ID đơn đặt hàng:** Lọc theo ID của đơn đặt hàng (đã được xác nhận, đóng gói và chuyển qua hãng vận chuyển) được bắn qua từ module Đơn hàng.
 - **Cửa hàng:** Lọc theo địa điểm kho hàng/cửa hàng bàn giao hàng hóa giữa 02 bên: doanh nghiệp và hãng vận chuyển.
 - **Hãng vận chuyển:** Lọc theo hãng vận chuyển tiếp nhận đơn hàng.
-- **Loại:** Loại bàn giao của đơn hàng : Gửi hàng (Từ doanh nghiệp tới hãng vận chuyển) hay Chuyển hoàn (Từ hãng vận chuyển tới doanh nghiệp).
-- **Miêu tả:** Lọc theo đoạn ghi chú, mô tả trong biên bản bàn giao vận đơn
+- **Loại biên bản:** Loại bàn giao của đơn hàng : Gửi hàng (Từ doanh nghiệp tới hãng vận chuyển) hay Chuyển hoàn (Từ hãng vận chuyển tới doanh nghiệp).
 - **Nhân viên vận chuyển:** Lọc theo nhân viên vận chuyển tiếp nhận đơn hàng.
-- **Từ ngày - Đến ngày:** Lọc những biên bản bàn giao được bàn giao trong một khoảng thời gian nhất định.
-- **Người tạo:** Lọc theo người tạo biên bản bàn giao.
+- **Tạo từ ngày/ Tạo đến ngày:** Lọc những biên bản bàn giao được bàn giao trong một khoảng thời gian nhất định.
+- **Kiểu biên bản:** Lọc theo người kiểu biên bản bàn giao.
 
-*(Đang cập nhật) - Ver2 chưa có bộ lọc*
 
 ### Các nút thao tác nhanh ![ biên bản bàn giao](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/img/them-moi.jpg) ![ biên bản bàn giao](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/img/thao-tac.jpg)
 
