@@ -8,3 +8,12 @@ Giao diện Danh sách khách hàng như sau:
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/danh-sach-khach-hang-.jpg)
 
+Các thao tác chính đối với danh sách khách hàng: 
+- Thêm mới khách hàng: bạn tham khảo tại đây
+- Lọc thông tin danh sách khách hàng: tại trang danh sách khách hàng, bạn ấn nút  ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/img/tim-kiem.jpg) để lọc các thông tin cần thiết.
+
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/loc-danh-sach-khach-hang.jpg)
+
+
+Sau khi chọn xong các thông tin cần thiết, bạn ấn nút ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/img/loc.jpg)
