@@ -6,7 +6,7 @@ Thêm lý do bảo hành dùng để thêm mới các nguyên nhân/ lý do tron
 
 Quy trình Thêm nguyên nhân/ lý do bảo hành cho sản phẩm trong doanh nghiệp như sau:
 
-## Bước 1: Nhập lý do bảo hành vào trường lý do trong bảng nhập liệu.
+**Bước 1: Nhập lý do bảo hành vào trường lý do trong bảng nhập liệu.
 
 Trong đó:
 
@@ -18,7 +18,7 @@ Với lý do "Bung đế" là cấp độ cha, trong lý do "Bung đế" có th�
 
 Lý do: Nhập lý do cho sản phẩm cần được bảo hành, sửa chữa.
 
-## Bước 2: Click vào nút Lưu để lưu lại
+**Bước 2: Click vào nút Lưu để lưu lại
 
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/bao-hanh/img/li-do-bao-hanh.jpg)
