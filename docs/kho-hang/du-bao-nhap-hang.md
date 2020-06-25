@@ -10,6 +10,7 @@ Tính năng này dựa trên tổng số lượng bán gần nhất, phù hợp 
 Quy trình tính toán số lượng sản phẩm cần nhập thêm:
 
 ## Bước 1: Bạn nhập thông tin vào các trường cần thiết, bao gồm:
+
 - Doanh Nghiệp: Chọn tên Doanh Nghiệp
 - Cửa hàng cần dự báo: chọn kho/cửa hàng cần tính toán số lượng sản phẩm nhập thêm
 - Danh mục: bạn lựa chọn danh mục sản phẩm cần dự báo số lượng nhập thêm
@@ -17,6 +18,7 @@ Quy trình tính toán số lượng sản phẩm cần nhập thêm:
 - Nhập hàng bán trong mấy ngày: bạn nhập số ngày bán hàng dự tính sắp tới (thường là khoảng cách số ngày giữa 2 lần nhập hàng)
 - Tồn tối thiểu của mỗi sản phẩm: nhập số tồn tối thiểu của sản phẩm mà bạn mong muốn.
 - Tên sản phẩm: nếu không muốn dự báo theo danh mục sản phẩm, bạn có thể nhập tên chính xác của 1 sản phẩm cụ thể hoặc một vài chữ cái trong tên sản phẩm.
+
 ## Bước 2: Click vào Tính số lượng cần nhập. Công thức tính như sau
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/du-bao-nhap-hang-f1.png)
