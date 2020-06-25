@@ -17,7 +17,7 @@
 ### Cài đặt ban đầu:
 Tại trang quản trị Vpage, người dùng truy cập lần lượt vào Khác / Cài đặt, hoặc [Tại đây](https://vpagetestweb1.nhanh.vn/app#!/sys/setting)
 
-* Để bật/tắt âm thanh thông báo, thêm mới tin nhắn mẫu người dùng vào ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/C%C3%A0i%20%C4%91%E1%BA%B7t%20chung.png)
+* Để bật/tắt âm thanh thông báo, thêm mới tin nhắn mẫu người dùng vào **Cài đặt chung**
 * Quản lý hạn sử dụng: Chỉ quyền quản trị viên (Fanpage Admin) được sử dụng tính năng này, các quyền biên tập viên không được sử dụng.
 
   ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/Chuy%E1%BB%83n%20HSD.png)
@@ -26,20 +26,20 @@ Tại trang quản trị Vpage, người dùng truy cập lần lượt vào Kh�
  
  ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/CSKH.png)
  
-* Để ẩn bình luận của khách, hiện bình luận seeding, người dùng vào Cài đặt Bình luận
+* Để ẩn bình luận của khách, hiện bình luận seeding, người dùng vào **Cài đặt Bình luận**
 
  ![](https://github.com/nhanhapi/manual/blob/master/docs/vpage/img/B%C3%ACnh%20lu%E1%BA%ADn.png)
  
  Hệ thống sẽ cho phép shop có thể cài đặt tự động gửi trả lời bình luận đến bằng một tin nhắn riêng
-* Để thêm/sửa/xóa nhãn hội thoại, người dùng vào Cài đặt nhãn hội thoại
+* Để thêm/sửa/xóa nhãn hội thoại, người dùng vào **Cài đặt nhãn hội thoại**
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/Nh%C3%A3n%20h%E1%BB%99%20tho%E1%BA%A1i.png)
 
-* Để thêm/sửa/xóa tin nhắn nhanh, người dùng vào Cài đặt nhãn tin nhắn nhanh, ap dụng tương tự với việc thêm/sửa/xóa nhãn hội thoại và có thể copy sang fanpage khác và sửa thứ tự sắp xếp của các câu khi hiển thị tin nhắn 
+* Để thêm/sửa/xóa tin nhắn nhanh, người dùng vào **Cài đặt nhãn tin nhắn nhanh**. Áp dụng tương tự với việc thêm/sửa/xóa nhãn hội thoại và có thể copy sang fanpage khác và sửa thứ tự sắp xếp của các câu khi hiển thị tin nhắn 
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/Th%E1%BB%A9%20t%E1%BB%B1%20tin%20nh%E1%BA%AFn%20nhanh.png)
 
-* Để sử dụng Vpage trên điện thoại, người dùng tải app Vpage trên IOS/ Android và bấm nút Ứng dụng Mobile, gạt Nhận thông báo khi có hội thoại mới
+* Để sử dụng Vpage trên điện thoại, người dùng tải app Vpage trên IOS/ Android và bấm nút **Ứng dụng Mobile**, gạt Nhận thông báo khi có hội thoại mới
 
 
 
