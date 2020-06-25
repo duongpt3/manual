@@ -12,7 +12,7 @@
 * Click đồng ý các quyền cần thiết để có thể sử dụng được Vpage
 * Thao tác tích chọn ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/T%C3%ADch%20ch%E1%BB%8Dn%20page.png) ==> ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/Truy%20c%E1%BA%ADp.png)
 
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/%C4%90%C4%83ng%20nh%E1%BA%ADp%20nhi%E1%BB%81u%20page.png)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/%C4%90%C4%83ng%20nh%E1%BA%ADp%20nhi%E1%BB%81u%20page.png)
 
 ### Cài đặt ban đầu:
 Tại trang quản trị Vpage, người dùng truy cập lần lượt vào Khác / Cài đặt, hoặc [Tại đây](https://vpagetestweb1.nhanh.vn/app#!/sys/setting)
