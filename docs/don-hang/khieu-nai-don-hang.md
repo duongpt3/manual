@@ -21,10 +21,10 @@ Chọn lý do khiếu nại và nhập mô tả cụ thể cho khiếu nại đ�
 
 Click **Thêm** để hoàn tất.
 
-Ngoài ra, để thêm nhiều khiếu nại cùng lúc, bạn có thể dùng Import Khiếu nại bằng Excel [tại đây](link).
+Ngoài ra, để thêm nhiều khiếu nại cùng lúc, bạn có thể dùng Import Khiếu nại bằng Excel [tại đây](https://new.nhanh.vn/order/complain/import).
 
 ## Theo dõi quá trình xử lý khiếu nại
 
-Tại danh sách đơn hàng, bạn chuyển sang tab Khiếu nại hoặc truy cập [vào đây](link) để xem các khiếu nại đã tạo đã được xử lý hay chưa, nội dung trả lời khiếu nại là gì.
+Tại danh sách đơn hàng, bạn chuyển sang tab Khiếu nại hoặc truy cập [vào đây](https://new.nhanh.vn/order/manage/complain) để xem các khiếu nại đã tạo đã được xử lý hay chưa, nội dung trả lời khiếu nại là gì.
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/khieu-nai-2.png)
