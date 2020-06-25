@@ -27,14 +27,8 @@ Tại trang quản trị Vpage, người dùng truy cập lần lượt vào Kh�
  ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/CSKH.png)
  
 * Để ẩn bình luận của khách, hiện bình luận seeding, người dùng vào **Cài đặt Bình luận**
-
- ![](https://github.com/nhanhapi/manual/blob/master/docs/vpage/img/B%C3%ACnh%20lu%E1%BA%ADn.png)
- 
- Hệ thống sẽ cho phép shop có thể cài đặt tự động gửi trả lời bình luận đến bằng một tin nhắn riêng
+   Hệ thống sẽ cho phép shop có thể cài đặt tự động gửi trả lời bình luận đến bằng một tin nhắn riêng
 * Để thêm/sửa/xóa nhãn hội thoại, người dùng vào **Cài đặt nhãn hội thoại**
-
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/Nh%C3%A3n%20h%E1%BB%99%20tho%E1%BA%A1i.png)
-
 * Để thêm/sửa/xóa tin nhắn nhanh, người dùng vào **Cài đặt nhãn tin nhắn nhanh**. Áp dụng tương tự với việc thêm/sửa/xóa nhãn hội thoại và có thể copy sang fanpage khác và sửa thứ tự sắp xếp của các câu khi hiển thị tin nhắn 
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/Th%E1%BB%A9%20t%E1%BB%B1%20tin%20nh%E1%BA%AFn%20nhanh.png)
