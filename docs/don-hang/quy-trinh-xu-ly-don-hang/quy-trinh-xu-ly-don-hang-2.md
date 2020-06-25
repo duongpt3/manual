@@ -6,8 +6,8 @@ Quy trình xử lý đơn hàng của Nhanh.vn được mô tả theo sơ đồ 
 
 ## Thêm đơn hàng 
 - Khách hàng đặt hàng trên website do Nhanh.vn cung cấp, hoặc website được tích hợp API của Nhanh, thì thông tin đơn hàng sẽ được chuyển đến phần mềm quản lý bán hàng Nhanh.vn.
-- Khách đặt hàng tại các nguồn khác, nhân viên của cửa hàng sẽ kiểm tra tình trang sản phẩm còn tồn trong kho hay không. Nếu còn hàng, nhân viên sẽ nhập thông tin đơn hàng lên hệ thống. Trong cả 2 trường hợp đặt hàng trên website và từ nguồn khác, nếu hết hàng, nhân viên sẽ thông báo để khách hàng chọn sản phẩm khác. Xem thêm hướng dẫn sử dụng module Thêm đơn hàng [tại đây](link).
-- Ngoài ra, doanh nghiệp cũng có thể thêm nhanh nhiều đơn hàng cùng lúc với tính năng [Import đơn hàng](link).
+- Khách đặt hàng tại các nguồn khác, nhân viên của cửa hàng sẽ kiểm tra tình trang sản phẩm còn tồn trong kho hay không. Nếu còn hàng, nhân viên sẽ nhập thông tin đơn hàng lên hệ thống. Trong cả 2 trường hợp đặt hàng trên website và từ nguồn khác, nếu hết hàng, nhân viên sẽ thông báo để khách hàng chọn sản phẩm khác. Xem thêm hướng dẫn sử dụng module Thêm đơn hàng [tại đây](https://manual.nhanh.vn/don-hang/quy-trinh-xu-ly-don-hang/them-don-hang).
+- Ngoài ra, doanh nghiệp cũng có thể thêm nhanh nhiều đơn hàng cùng lúc với tính năng [Import đơn hàng](https://new.nhanh.vn/order/manage/import).
 Những đơn hàng khi được tạo trên hệ thống sẽ có trạng thái là "Mới".
 
 ## Xác nhận đơn hàng
@@ -23,10 +23,10 @@ Sau khi có danh sách đơn hàng, nhân viên sẽ gọi điện cho khách h�
 
 - Với những đơn hàng đang ở trạng thái "Đang đóng gói sản phẩm", nhân viên kho sẽ tiến hành nhặt hàng cho những đơn đó, đóng gói và dán phiểu gửi (đã in ở bước 2) vào đơn hàng.
 - Với những đơn hàng ở trạng thái "Đã xác nhận", nhân viên cũng có thể click để in phiếu gửi (có thể chọn nhiều đơn hàng để in cùng lúc).
-- Doanh nghiệp có thể xem thêm hướng dẫn khâu nhặt hàng và đóng gói [tại đây](link).
+- Doanh nghiệp có thể xem thêm hướng dẫn khâu nhặt hàng và đóng gói [tại đây](https://manual.nhanh.vn/don-hang/quy-trinh-xu-ly-don-hang/in-va-dong-goi-don-hang).
 
 ## Cho đơn hàng vào biên bản bàn giao
-- Doanh nghiệp phân loại các đơn hàng theo hãng vận chuyển, sau đó tạo biên bản bàn giao cho từng hãng. Xem hướng dẫn tạo biên bản bàn giao vận đơn [tại đây](link).
+- Doanh nghiệp phân loại các đơn hàng theo hãng vận chuyển, sau đó tạo biên bản bàn giao cho từng hãng. Xem hướng dẫn tạo biên bản bàn giao vận đơn [tại đây](https://manual.nhanh.vn/don-hang/quy-trinh-xu-ly-don-hang/bien-ban-ban-giao-don-hang-cho-hang-van-chuyen).
 
 ## Vận chuyển
 - Sau khi đơn hàng đã được đóng gói và dán phiếu gửi thành công, nhân viên tiến hành gửi những đơn đó sang cho hãng vận chuyển. Doanh nghiệp có thể xem thêm hướng dẫn khâu vận chuyên [tại đây](link).
@@ -39,15 +39,15 @@ Quy trình vận chuyển của Nhanh.vn có 3 tab riêng để quản lý trạ
 
 ### Vượt cân
 
-Tab này thống kê những đơn hàng đang chuyển có khối lượng thực tế lớn hơn so với khối lượng mà doanh nghiệp đã khai báo. Người dùng click vào tab ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/quy-trinh-xu-ly-DH-2.jpg)  hoặc truy cập [tại đây](link).
+Tab này thống kê những đơn hàng đang chuyển có khối lượng thực tế lớn hơn so với khối lượng mà doanh nghiệp đã khai báo. Người dùng click vào tab ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/quy-trinh-xu-ly-DH-2.jpg)  hoặc truy cập [tại đây](https://new.nhanh.vn/order/manage/index?features=17).
 
 ### Giao hàng thất bại
 
-Tab này thống kê những đơn hàng có trạng thái "Thất bại" trong danh sách đơn hàng. Người dùng click vào tab ![](link) hoặc truy cập [tại đây](link). Đối với các đơn hàng thất bại, doanh nghiệp có thể khiếu nại bằng cách click nút thao tác nhanh ![](link) và chọn Khiếu nại.
+Tab này thống kê những đơn hàng có trạng thái "Thất bại" trong danh sách đơn hàng. Người dùng click vào tab ![](link) hoặc truy cập [tại đây](https://new.nhanh.vn/order/manage/index?status=61). Đối với các đơn hàng thất bại, doanh nghiệp có thể khiếu nại bằng cách click nút thao tác nhanh ![](link) và chọn Khiếu nại.
 
 ### Xác nhận chuyển hoàn
 
-Tab này thống kê những đơn hàng đã giao thất bại và đang chuyển hoàn về cho doanh nghiệp, người dùng click vào tab ![](link) hoặc truy cập [tại đây](link).
+Tab này thống kê những đơn hàng đã giao thất bại và đang chuyển hoàn về cho doanh nghiệp, người dùng click vào tab ![](link) hoặc truy cập [tại đây](https://new.nhanh.vn/order/manage/index?status=71).
 
 ## Đối soát, thanh toán COD, chiết khấu
 ### Nhanh.vn đối soát với hãng vận chuyển
@@ -61,7 +61,7 @@ Ngày trả đối soát | Thứ 2, 4, 6 | Thứ 2, 4, 6 | Thứ 2, 4, 6 | Thứ
 
 ### Nhanh.vn đối soát và thanh toán COD với khách hàng
 
-Để nhận được tiền thu hộ (COD), doanh nghiệp cần khai báo tài khoản nhận tiền [tại đây](link).
+Để nhận được tiền thu hộ (COD), doanh nghiệp cần khai báo tài khoản nhận tiền [tại đây](https://new.nhanh.vn/store/paymentaccount/addbankacc).
 Một ngày sau khi nhận đối soát từ Hãng vận chuyển, Nhanh sẽ thanh toán tiền hàng cho doanh nghiệp theo lịch:
 
 []() | **Khách doanh nghiệp** | **Khách lẻ**
@@ -88,7 +88,7 @@ Khi đó - đơn hàng tự động đổi trạng thái sang "Đã chuyển ho�
 
 Nếu bạn đưa hàng cho shiper - số lượng ít - và shiper trả tiền hàng mỗi ngày thì khi shiper về nộp tiền hàng => Vào biên bản của ngày hôm trước => tích và đổi trạng thái 1 loạt đơn hàng sang “Thành công”  hoặc “ Đã chuyển hoàn”
 
-Nếu như bạn đưa hàng cho hãng vận chuyển, số lượng nhiều - tiền COD trả lộn xộn không theo ngày gửi hàng => Import cập nhật trạng thái đơn hàng [tại đây](link).
+Nếu như bạn đưa hàng cho hãng vận chuyển, số lượng nhiều - tiền COD trả lộn xộn không theo ngày gửi hàng => Import cập nhật trạng thái đơn hàng [tại đây](https://new.nhanh.vn/order/manage/importstatus).
 
 Hoặc vào danh sách đơn hàng - lọc nhiều ID đơn hàng cùng lúc tại ô “IDs”, mỗi ID cách nhau 1 dấu phẩy, sau đó cũng select và đổi trang thái đơn hàng sang “Thành công” - công viêc này dành cho kế toán.
 
