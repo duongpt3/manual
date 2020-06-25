@@ -6,7 +6,7 @@ Nếu bạn có sản lượng đơn hàng nhiều (khoảng trên 50 đơn) th�
 - Bưu tá kí và xác nhận việc lấy hàng (lấy bao nhiêu đơn, số đơn, ngày giờ lấy hàng)
 - Doanh nghiệp xác nhận việc nhận lại hàng do hãng vận chuyển chuyển hoàn.
 
-## I. Danh sách Biên bản bàn giao vận đơn
+## Danh sách Biên bản bàn giao vận đơn
 Biên bản bàn giao vận đơn dùng để xác nhận một trong hai trường hợp sau : 
 
 - Bạn đã gửi hàng sang cho hãng vận chuyển chưa?
@@ -17,7 +17,7 @@ Giao diện làm việc của Danh sách biên bản bàn giao vận đơn như 
 
 ![Giao diện làm việc của Danh sách biên bản bàn giao](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/bien-ban-ban-giao-1.png)
 
-### 1. Bộ lọc 
+## Bộ lọc 
 
 ![Giao diện làm việc của bộ lọc](link)
 
@@ -34,13 +34,13 @@ Trong đó:
 
 *(Đang cập nhật) - Ver2 chưa có bộ lọc*
 
-### 2. Các nút thao tác nhanh ![ biên bản bàn giao](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/img/them-moi.jpg) ![ biên bản bàn giao](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/img/thao-tac.jpg)
+### Các nút thao tác nhanh ![ biên bản bàn giao](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/img/them-moi.jpg) ![ biên bản bàn giao](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/img/thao-tac.jpg)
 
 
 - Nút Thêm mới cho phép doanh nghiệp tạo/thêm mới một biên bản bàn giao vận đơn.
 - Nút Thao tác gồm các tùy chọn Xuất Excel danh sách biên bản bàn giao vận đơn ở trang hiện tại hoặc tất cả các trang để lưu trữ.
 
-### 3. Thông tin trong Biên bản bàn giao vận đơn
+### Thông tin trong Biên bản bàn giao vận đơn
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/bien-ban-ban-giao-2.png)
 
@@ -58,7 +58,7 @@ Trong đó:
   - Thêm đơn hàng vào biên bản: Dùng để thêm đơn vào biên bản bàn giao cho hãng vận chuyển khi hãng vận chuyển đang nhận hoặc chưa đến nhận bàn giao.(Không dùng trong trường hợp đã lấy hàng).
   - Xóa biên bản bàn giao vận đơn.
   
-  ## II. Thêm biên bản bàn giao vận đơn
+  ## Thêm biên bản bàn giao vận đơn
 Thêm biên bản bàn giao vận đơn giúp bạn thực hiện nghiệp vụ thêm biên bản bàn giao đơn hàng cho hãng vận chuyển.
 
 Sau khi doanh nghiệp gửi đơn qua bên hãng vận chuyển, nhân viên hãng vận chuyển sẽ qua trực tiếp kho / cửa hàng bàn giao đơn hàng để tiếp nhận đơn hàng. Hai bên cần tiến hành xác lập biên bản bàn giao để xác thực quá trình bàn giao. 
