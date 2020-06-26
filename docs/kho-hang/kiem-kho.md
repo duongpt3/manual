@@ -136,7 +136,7 @@ VD: Với hành động Chuyển kho:
 
 Máy quét mã vạch (đầu tít mã vạch) giúp quá trình kiểm kho được tiến hành một cách nhanh chóng và dễ dàng. Tuy nhiên, nếu bạn không đưa ra được một quy trình kiểm kho chặt chẽ, việc sai sót là khó tránh khỏi.
 
-Một số trường hợp mà đa số các doanh nghiệp hay gặp phải như sau:
+### Một số trường hợp mà đa số các doanh nghiệp hay gặp phải như sau:
 
 - Tít 02 lần/sản phẩm: Do tít đúp vào sản phẩm. Khi đó hệ thống sẽ ghi nhận sản phẩm đó 02 lần tương đương với số lượng = 02 sản phẩm.
 - File import thiếu sản phẩm: Khi tít mã vạch, nếu không đặt con trỏ chuột đúng cột mã vạch thì hệ thống sẽ không nhận được mã vạch sản phẩm. Do đó file import sẽ bị thiếu sản phẩm.
@@ -155,9 +155,9 @@ Một số trường hợp mà đa số các doanh nghiệp hay gặp phải nh�
 
 Sau khi kiểm kho, ghi nhận số lượng hàng hóa thất thoát, mất mát. Bạn nên kiểm tra lại để đảm bảo tính chính xác của kết quả kiểm kho.
 
-Một số phương án được đề xuất kiểm tra như sau:
+#### Một số phương án được đề xuất kiểm tra như sau:
 
-- Kiểm tra lại lịch sử import: Tại module Lịch sử Import, bạn rà soát lại lịch sử Import kiểm kho xem có import đủ/trùng file hay không ?​
+- Kiểm tra lại lịch sử import: Tại module Lịch sử Import, bạn rà soát lại lịch sử Import kiểm kho xem có import đủ/trùng file hay không ?
 
 - Kiểm tra lại số tồn thực tế của các sản phẩm được báo chênh lệch (thừa/thiếu): Để loại trừ khả năng kiểm kê thủ công sai số lượng thực tế.
 - Kiểm tra lại chi tiết xuất nhập kho (XNK):  Tại [Danh sách sản phẩm XNK](https://new.nhanh.vn/inventory/bill/index) bạn cần rà soát lại số lượng phiếu XNK được lập ra.
@@ -166,7 +166,9 @@ Nếu cùng một thời điểm, cùng một ngày, có số sản phẩm và s
 
 Ví dụ: Chỉ có 02 sản phẩm có phát sinh xuất nhập kho nhưng có 02 người dùng (02 tài khoản) cùng lập phiếu, hệ thống sẽ ghi nhận số lượng sản phẩm là 04 sản phẩm. Khi kiểm kho, hệ thống báo thừa 02 sản phẩm.
 
-Cách xử lý: Xóa bớt 01 phiếu thừa hoặc làm thêm phiếu nhập/xuất bù trừ số lượng cho phiếu đã nhập/xuất đó.
+#### Cách xử lý: 
+
+- Xóa bớt 01 phiếu thừa hoặc làm thêm phiếu nhập/xuất bù trừ số lượng cho phiếu đã nhập/xuất đó.
 
 - Kiểm tra lại số tồn trong Danh sách sản phẩm: Tại [Danh sách sản phẩm](https://new.nhanh.vn/product/item/index) kiểm tra lại trạng thái của sản phẩm.
 
