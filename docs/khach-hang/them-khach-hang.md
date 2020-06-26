@@ -15,14 +15,14 @@ Khách hàng sẽ được tạo tự động từ các thông tin bạn nhập 
 ## Thêm từng khách hàng
 
 * Đọc lại các khái niệm cơ bản về khách hàng [tại đây](https://manual.nhanh.vn/khach-hang/gioi-thieu).
-* Truy cập trang [Danh sách khách hàng](https://new.nhanh.vn/customer/code/customerlist) chọn Thêm mới > Thêm mới hoặc truy cập [tại đây](https://new.nhanh.vn/customer/code/add)
+* Truy cập trang [Danh sách khách hàng](https://new.nhanh.vn/customer/code/customerlist) chọn **Thêm mới** > **Thêm khách hàng** hoặc truy cập [tại đây](https://new.nhanh.vn/customer/code/add)
 
 * *todo: Chờ sửa lại màn hình Thêm khách hàng để chụp ảnh màn hình*
 
 ## Nhập từ Excel
 
 * Bạn có thể nhập thông tin khách hàng ra file Excel sau đó tải file này lên hệ thống.
-* Truy cập trang [Danh sách khách hàng](https://new.nhanh.vn/customer/code/customerlist) chọn Thêm mới > Nhập từ Excel hoặc truy cập [tại đây](https://new.nhanh.vn/customer/code/add?tab=excel)
+* Truy cập trang [Danh sách khách hàng](https://new.nhanh.vn/customer/code/customerlist) chọn **Thêm mới** > **Nhập từ Excel** hoặc truy cập [tại đây](https://new.nhanh.vn/customer/code/add?tab=excel)
   * Bước 1: Tải file Excel mẫu của Nhanh.vn về máy tính
   * Bước 2: Nhập thông tin khách hàng vào file mẫu, sau đó lưu lại
   * Bước 3: Trở lại giao diện import, tiến hành import file Excel vừa lưu lên hệ thống.
