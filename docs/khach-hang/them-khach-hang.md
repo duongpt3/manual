@@ -4,7 +4,13 @@ Có 3 cách để thêm mới khách hàng:
 
 ## Thêm tự động
 
-* Khi bạn lập hóa đơn bán lẻ, bán buôn, đơn hàng, tạo đơn từ Vpage, khách đặt hàng trên website, hay đồng bộ đơn hàng từ các hệ thống khác như Lazada, Tiki, Shopee, Sendo, hay qua tạo đơn hàng qua [API](https://developers.nhanh.vn/send-data-to-nhanh.vn/add-2), hệ thống sẽ tự động tạo ra thông tin khách hàng dựa vào các giá trị bạn điền trên các trang.
+Khách hàng sẽ được tạo tự động từ các thông tin bạn nhập trên các trang:
+* Thêm hóa đơn bán lẻ
+* Thêm hóa đơn bán buôn
+* Thêm đơn hàng 
+* Thêm đơn từ [Vpage](https://vpage.nhanh.vn), 
+* Khách đặt hàng trên website.
+* Hay đồng bộ đơn hàng từ các hệ thống khác như Lazada, Tiki, Shopee, Sendo, hay qua tạo đơn hàng qua [API](https://developers.nhanh.vn/send-data-to-nhanh.vn/add-2)
 
 ## Thêm từng khách hàng
 
