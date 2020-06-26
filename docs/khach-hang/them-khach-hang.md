@@ -10,7 +10,7 @@ Khách hàng sẽ được tạo tự động từ các thông tin bạn nhập 
 * Thêm đơn hàng 
 * Thêm đơn từ [Vpage](https://vpage.nhanh.vn), 
 * Khách đặt hàng trên website.
-* Hay đồng bộ đơn hàng từ các hệ thống khác như Lazada, Tiki, Shopee, Sendo, hay qua tạo đơn hàng qua [API](https://developers.nhanh.vn/send-data-to-nhanh.vn/add-2)
+* Đồng bộ đơn hàng từ các hệ thống khác như Lazada, Tiki, Shopee, Sendo, hay qua tạo đơn hàng qua [API](https://developers.nhanh.vn/send-data-to-nhanh.vn/add-2)
 
 ## Thêm từng khách hàng
 
