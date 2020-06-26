@@ -53,7 +53,7 @@
 ---
 
 
-### Kết nối JT Express
+### Kết nối J&T Express
 
 * Bước 1: Bạn liên hệ với J&T Express để ký hợp đồng và yêu cầu họ cung cấp mã khách hàng.
 
