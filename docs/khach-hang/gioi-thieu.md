@@ -33,9 +33,8 @@ Các khái niệm cơ bản trong Khách hàng:
   
   ## Nhóm khách hàng:
   
-  Đúng như tên gọi, nhóm khách hàng dùng để tập hợp khách hàng lại thành một nhóm mà không cần điều kiện ràng buộc (như số tiền mua trung bình theo tháng hay tổng tiền tích lũy của khách hàng).
-
-Doanh nghiệp có thể cho bất cứ khách hàng nào vào bất cứ nhóm nào.
+* Dùng để tập hợp khách hàng lại thành một nhóm mà không cần điều kiện ràng buộc (như số tiền mua trung bình theo tháng hay tổng tiền tích lũy của khách hàng).
+* Bạn có thể cho bất cứ khách hàng nào vào bất cứ nhóm nào.
 
 **Tình huống sử dụng thực tế:** Doanh nghiệp muốn tạo khuyến mại cho tất cả những người tên Dũng, An, Lâm... ==> Lọc danh sách khách hàng theo tên và cho tất cả những người có tên như vậy vào chung 1 nhóm.
 
