@@ -201,7 +201,7 @@ Tại  [Danh sách đơn hàng](https://new.nhanh.vn/order/manage/index) ,lọc 
 
 Thông thường khi hãng vận chuyển bàn giao hàng hóa cho Nhanh.vn, hệ thống vẫn để ở trạng thái "Đang chuyển hoàn". Chỉ khi nào doanh nghiệp nhận được bàn giao hàng hóa thực tế, mới đổi trạng thái đơn hàng sang "Đã chuyển hoàn" để loại bỏ sản phẩm khỏi Danh sách đang chuyển hàng trong Danh sách sản phẩm.
 
-Việc đổi trạng thái thủ công này, dễ gây thất thoát hàng hóa và khó kiếm soát. Bạn nên thận trọng với nghiệp vụ này.
+**Lưu ý:** Việc đổi trạng thái thủ công này, dễ gây thất thoát hàng hóa và khó kiếm soát. Bạn nên thận trọng với nghiệp vụ này.
 
 
 
