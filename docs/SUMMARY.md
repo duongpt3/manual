@@ -24,7 +24,7 @@
 
 ## Sản phẩm
 
-* [Giới thiệu về Sản phẩm](san-pham/gioi-thieu.md)
+* [Giới thiệu](san-pham/gioi-thieu.md)
 * Thêm sản phẩm
   * [Thêm sản phẩm](san-pham/them-san-pham/them-san-pham.md)
   * [Danh sách sản phẩm](san-pham/them-san-pham/danh-sach-san-pham.md)
@@ -44,7 +44,7 @@
 
 ## Kho hàng
 
-* [Giới thiệu về Kho hàng](kho-hang/gioi-thieu.md)
+* [Giới thiệu](kho-hang/gioi-thieu.md)
 * [Chuyển kho](kho-hang/chuyen-kho.md)
 * [Dự báo nhập hàng](kho-hang/du-bao-nhap-hang.md)
 * [Hạn mức tồn kho](kho-hang/han-muc-ton-kho.md)
@@ -56,7 +56,7 @@
 
 ## Bán hàng
 
-* [Giới thiệu về Bán hàng](ban-hang/gioi-thieu.md)
+* [Giới thiệu](ban-hang/gioi-thieu.md)
 * Bán lẻ
   * [Thêm hóa đơn bán lẻ](ban-hang/them-hoa-don-ban-le.md)
   * [Danh sách hóa đơn bán lẻ](ban-hang/danh-sach-hoa-don-ban-le.md)
@@ -70,7 +70,7 @@
 
 ## Đơn hàng
 
-* [Giới thiệu về Đơn hàng](don-hang/gioi-thieu.md)
+* [Giới thiệu](don-hang/gioi-thieu.md)
 * Quy trình xử lý đơn hàng
   * [Thêm đơn hàng](don-hang/quy-trinh-xu-ly-don-hang/them-don-hang.md)
   * [Xác nhận đơn hàng](don-hang/quy-trinh-xu-ly-don-hang/xac-nhan-don-hang.md)
@@ -83,7 +83,7 @@
 
 ## Khách hàng
 
-* [Giới thiệu về Khách hàng](khach-hang/gioi-thieu.md)
+* [Giới thiệu](khach-hang/gioi-thieu.md)
 * [Thêm mới khách hàng](khach-hang/them-moi-khach-hang.md)
 * [Danh sách khách hàng](khach-hang/danh-sach-khach-hang.md)
 * [Nhóm khách hàng](khach-hang/nhom-khach-hang.md)
@@ -92,28 +92,28 @@
 
 ## Website
 
-* [Giới thiệu về Website](website/gioi-thieu.md)
+* [Giới thiệu](website/gioi-thieu.md)
 
 ## Khuyến mãi
 
-* [Giới thiệu về Khuyến mãi](khuyen-mai/gioi-thieu.md)
+* [Giới thiệu](khuyen-mai/gioi-thieu.md)
 * [Thêm chương trình khuyến mãi](khuyen-mai/them-chuong-trinh-khuyen-mai.md)
 
 ## Báo cáo
 
-* [Giới thiệu về Báo cáo](bao-cao/gioi-thieu.md)
+* [Giới thiệu](bao-cao/gioi-thieu.md)
 
 ## Kế toán
 
-* [Giới thiệu về Kế toán](ke-toan/gioi-thieu.md)
+* [Giới thiệu](ke-toan/gioi-thieu.md)
 
 ## Bảo hành
 
-* [Giới thiệu về Bảo hành](bao-hanh/gioi-thieu.md)
+* [Giới thiệu](bao-hanh/gioi-thieu.md)
 
 ## Vpage
 
-* [Giới thiệu về Vpage](vpage/gioi-thieu.md)
+* [Giới thiệu](vpage/gioi-thieu.md)
 * Các bước đăng nhập
   * [Đăng nhập và cài đặt ban đầu](vpage/cac-buoc-dang-nhap/cai-dat-chung.md)
   * [Quản lý comment,inbox](vpage/cac-buoc-dang-nhap/quan-ly-cmt-inbox.md)
