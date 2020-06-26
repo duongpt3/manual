@@ -89,7 +89,6 @@
   * [Danh sách khách hàng](khach-hang/danh-sach-khach-hang.md)
   * [Thẻ khách hàng](khach-hang/the-khach-hang.md)
   * [Chăm sóc khách hàng](khach-hang/cham-soc-khach-hang.md)
-* [Danh sách khách hàng](khach-hang/danh-sach-khach-hang.md)
 * [Nhóm khách hàng](khach-hang/nhom-khach-hang.md)
 * [Thẻ khách hàng](khach-hang/the-khach-hang.md)
 * [Chăm sóc khách hàng](khach-hang/cham-soc-khach-hang.md)
