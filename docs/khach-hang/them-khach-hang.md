@@ -15,7 +15,7 @@ Khách hàng sẽ được tạo tự động từ các thông tin bạn nhập 
 ## Thêm từng khách hàng
 
 * Truy cập trang [Danh sách khách hàng](https://new.nhanh.vn/customer/code/customerlist) chọn Thêm mới > Thêm mới hoặc truy cập [tại đây](https://new.nhanh.vn/customer/code/add)
-* Đọc lại các khái niệm cơ bản về khách hàng [tại đây](khach-hang/gioi-thieu.md).
+* Đọc lại các khái niệm cơ bản về khách hàng [tại đây](https://manual.nhanh.vn/khach-hang/gioi-thieu).
 
 ## Nhập từ Excel
 
