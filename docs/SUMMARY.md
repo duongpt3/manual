@@ -6,7 +6,6 @@
 
 * [Đăng kí tài khoản](tai-khoan/dang-ky.md)
 * [Đăng nhập vào hệ thống](tai-khoan/dang-nhap.md)
-* [Một số lỗi thường gặp](tai-khoan/mot-so-loi-thuong-gap.md)
 
 ## Cài đặt
 
