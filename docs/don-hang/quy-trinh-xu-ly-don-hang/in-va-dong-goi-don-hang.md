@@ -49,3 +49,77 @@ Xem thêm hướng dẫn sử dụng Biên bản bàn giao vận đơn [tại đ
 **Bước 4 : Đóng gói và dán phiếu gửi lên gói hàng**
 
 Sau khi đơn hàng đã được đóng gói, doanh nghiệp tiến hàng  [Gửi đơn hàng sang hãng vận chuyển](link)
+
+## Cách dùng chung 1 máy in cho nhiều máy tính
+
+Với doanh nghiệp có bộ phận gọi điện chốt đơn hàng thì các nhân viên đều cần kết nối với máy in để in phiếu gửi, tuy nhiên máy in chỉ có 1 dây kết nối với máy tính và thông thường doanh nghiệp chỉ có 1 máy in duy nhất.
+
+Nhanh.vn xin hướng dẫn các bạn cách chia sẻ máy in qua mạng LAN để nhiều máy tính có thể in được
+
+Nguyên tắc chung:  Một máy tính sẽ kết nối dây với máy in, và máy tính đó phải share máy in lên mạng LAN. Các máy tính khác muốn sử dụng máy in này thì phải cài đặt máy in mạng (network printer)
+
+**Win 7 - Win 7 (Từ win 7 trở lên)**
+
+**Bước 1.0:** Vào Control Panel -> Devices and Printers xem máy chủ này đã có driver máy in và in được hay chưa.
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/in-dong-goi-4.jpg)
+
+*Nếu chưa có thì:*
+
+- Kiểm tra và cài đặt driver máy in đúng với model máy in - hệ điều hành đang sử dụng. Tìm trên google với từ khoá: "Download + driver + tên máy + hệ điều hành", VD: download driver HP 1200 win 7 32 bit
+
+- Tải trình điều khiển về cài vào máy, cắm cáp USB và bật nguồn máy in trước khi thực hiện bước này
+
+**Bước 1.1:** Nếu có rồi thì làm tiếp:
+
+Trong cửa sổ Devices and Printers, chuột phải vào máy in, chọn Properties -> Share this printer. Lúc này máy in của bạn đã được lên thớt rồi đó.
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/in-dong-goi-5.jpg)
+
+**Bước 1.2:** Tại các máy con cần dùng máy in được share, cũng vào mục Devices and Printers, chon Add a printer 
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/in-dong-goi-6.jpg)
+
+Chọn Add a network, wireless of Bluetooth printer (sử dụng máy in trong mạng LAN hoặc mạng không dây, qua sóng Bluetooth
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/in-dong-goi-7.jpg)
+
+Các máy in trong mạng LAN sẽ được liệt kê trong danh sách, ticks chọn rồi nhấn Next, driver từ máy chủ sẽ tự chạy về máy bạn trong tích tắc.
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/in-dong-goi-8.jpg)
+
+Kết thúc là đặt máy in vừa cài thành máy in mặc định và sử dụng thôi
+
+**Win XP - XP, XP-7**
+
+**Bước 2.0:** Tương tự như I.0
+
+**Bước 2.1:** Share máy in lên mạng Lan, chuột phải vào máy in, chọn Sharing...
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/in-dong-goi-9.jpg)
+
+Nhập tên cho máy in và máy tính của bạn để dễ phân biệt, nhấn OK
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/in-dong-goi-10.jpg)
+
+**Bước 2.2:** Thêm máy in đã share vào các máy khác
+
+Chọn Add a printer
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/in-dong-goi-11.jpg)
+
+Thêm 1 máy trong mạng LAN
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/in-dong-goi-12.jpg)
+
+Chọn đúng máy in đã được đặt tên lúc nãy, nhấn Next -> Finish
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/in-dong-goi-13.jpg)
+
+Chú ý:
+
+- Các win từ win 7 trở lên thì tương tự nhau
+- Trong bước 2 các bạn có thể truy cập máy in được share để cài đặt và in ấn bằng tên máy chủ hoặc địa chỉ IP (được đặt IP tĩnh).
+
+
+## 
