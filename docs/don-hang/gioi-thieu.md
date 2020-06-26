@@ -58,7 +58,7 @@ Doanh nghiệp gọi điện lại cho khách để xác nhận lại đơn hàn
 ### In và Đóng gói sản phẩm
 
 ### Tạo biên bản bàn giao
-Tập hợp các đơn hàng cùng 1 hãng vận chuyển -> tạo biên bản bàn giao, thêm các đơn hàng vào biên bản bàn giao -> Click gửi sang hãng vận chuyển -> In biên bản bàn giao giao cho hãng vận chuyển đến lấy hàng.
+Tập hợp các đơn hàng cùng 1 hãng vận chuyển -> tạo biên bản bàn giao, thêm các đơn hàng vào biên bản bàn giao -> Bấm nút gửi sang hãng vận chuyển -> In biên bản bàn giao giao cho hãng vận chuyển đến lấy hàng.
 
 ### Gửi đơn hàng sang hãng vận chuyển
 - Khi kích gửi sang hãng vận chuyển thì trạng thái tự động chuyển sang là Chờ đi nhận -> Hãng khi nào nhận được hàng sẽ chuyển trạng thái sang Đang chuyển để ghi nhận là đang chuyển hàng cho khách.
