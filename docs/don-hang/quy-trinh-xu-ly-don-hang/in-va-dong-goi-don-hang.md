@@ -27,9 +27,6 @@ Trong trường hợp muốn chuyển đơn hàng sang kho khác (khi kho mặc 
 
 Xem thêm:
 
-[- Hướng dẫn chia sẻ máy in qua mạng LAN để sử dụng cho nhiều máy tính](link)
-
-[- Cách khắc phục lỗi in thiếu trong quá trình in hóa đơn, phiếu gửi](link)
 
 **Bước 3: Nhặt hàng**
 - Với những doanh nghiệp ít đơn (khoảng dưới 50 đơn/ngày) thì nhân viên có thể cầm phiếu gửi vào trong kho để nhặt hàng.
