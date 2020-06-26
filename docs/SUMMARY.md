@@ -84,6 +84,11 @@
 ## Khách hàng
 
 * [Giới thiệu](khach-hang/gioi-thieu.md)
+* Quản lý khách hàng
+  * [Thêm khách hàng](khach-hang/them-khach-hang.md)
+  * [Danh sách khách hàng](khach-hang/danh-sach-khach-hang.md)
+  * [Thẻ khách hàng](khach-hang/the-khach-hang.md)
+  * [Chăm sóc khách hàng](khach-hang/cham-soc-khach-hang.md)
 * [Thêm mới khách hàng](khach-hang/them-moi-khach-hang.md)
 * [Danh sách khách hàng](khach-hang/danh-sach-khach-hang.md)
 * [Nhóm khách hàng](khach-hang/nhom-khach-hang.md)
