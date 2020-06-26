@@ -122,4 +122,41 @@ Chú ý:
 - Trong bước 2 các bạn có thể truy cập máy in được share để cài đặt và in ấn bằng tên máy chủ hoặc địa chỉ IP (được đặt IP tĩnh).
 
 
-## 
+## Cách khắc phục lỗi in thiếu trong quá trình in hóa đơn, phiếu gửi
+
+
+Cách khắc phục lỗi in thiếu trong quá trình in hóa đơn, phiếu gửi
+
+**1. Tình huống:**
+
+- Bạn tích chọn nhiều hóa đơn hoặc nhiều phiếu gửi hàng để in cùng 1 lúc
+- Trong quá trình in, máy in bị lỗi hoặc bị hết giấy, dẫn đến in thiếu hóa đơn/phiếu thu
+
+**2. Biểu hiện:** Khi đó, màn hình sẽ hiển thị lỗi như sau:
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/in-dong-goi-14.jpg)
+
+**3. Cách khắc phục:**
+
+*a. Khắc phục phần cứng:*
+
+- Trường hợp máy in hết giấy: Đặt đúng khổ giấy muốn in vào đúng vị trí, sau đó nhấn nút màu đỏ trên máy in để máy tự động in tiếp 
+- Trường hợp máy in kẹt giấy: Nhẹ nhàng gỡ tờ giấy bị kẹt ra khỏi máy in, sau đó nhấn nút màu đỏ trên máy in để máy tự động in tiếp
+
+*b. Khắc phục phần mềm: Trong trường hợp máy in không tự động in tiếp, có 2 giải pháp:*
+
+- Nhấn Ctrl+P sau đó click "In" để tiếp tục in
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/in-dong-goi-15.jpg)
+
+- Nhấn Ctrl+Shift+P, sau đó click nút "Print" để tiếp tục in
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/in-dong-goi-16.jpg)
+
+- Click đúp vào biểu tượng máy in ở góc màn hình, sau đó click "Restart" lại lệnh cần in
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/in-dong-goi-17.jpg)
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/in-dong-goi-18.jpg)
+
+
