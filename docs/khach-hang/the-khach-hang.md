@@ -1,21 +1,18 @@
 # Thẻ khách hàng
-Thẻ khách hàng là công cụ để doanh nghiệp quản lý khách hàng. Một thẻ được gắn với một đối tượng khách hàng cụ thể. Thẻ khách hàng có thể được tặng kèm đợt khuyến mại hoặc tặng cho khách hàng thân quen.
 
-Thẻ khách hàng gồm 2 thông tin là mã thẻ và thông tin khách hàng.
+* Thẻ khách hàng (hay còn gọi là Loyalty Card, VIP Card, Member Card...) là công cụ để định danh thông tin khách hàng.
+* Thẻ khách hàng gồm 2 thông tin là mã thẻ và thông tin khách hàng. Một thẻ được gắn với một khách hàng cụ thể.
+* Mã thẻ giúp tìm kiếm khách hàng nhanh hơn, thông tin trên thẻ cũng giúp khách hàng thường xuyên nhớ tới thương hiệu của bạn hơn.
 
 Tình huống sử dụng thực tế:
 
-- Khách mua hàng, ra quầy thanh toán, đưa thẻ cho nhân viên thu ngân. Nhân viên thu ngân quét mã thẻ sẽ ra tất cả thông tin của khách hàng như: Họ tên, ngày sinh, cấp độ/nhóm khách hàng, số điểm tích lũy, có đang được áp dụng khuyến mại nào không?...
+* Phát hành thẻ: Tạo mã thẻ và in thẻ khách hàng.
+* Khi khách có nhu cầu làm thẻ khách hàng, cửa hàng đưa cho khách 1 mã thẻ, xin thông tin khách hàng, và nhập thông tin khách hàng cho thẻ.
+* Khi khách tới mua hàng, thu ngân xin thông tin thẻ khách hàng, và có thể dùng đầu đọc mã vạch hoặc tự gõ vào ô mã thẻ trên các trang thêm hóa đơn bán lẻ, thêm đơn hàng... để tìm kiếm thông tin khách hàng, hệ thống sẽ hiện ra đầy đủ thông tin của khách hàng trên các trang đang được thao tác (Họ tên, ngày sinh, cấp độ/nhóm khách hàng, số điểm tích lũy, có đang được áp dụng khuyến mại nào không...)
 
-Nghiệp vụ quản lý thẻ khách hàng:
+## Phát hành thẻ
 
-
-- Bước 1: Phát hành thẻ khách hàng
-- Bước 2: Gắn khách hàng vào thẻ
-
-## Phát hành thẻ:
-
-Doanh nghiệp truy cập Khách hàng / Thẻ khách hàng / Tab Phát hành thẻ/ click Thêm mới. Có 2 cách thêm mới đợt phát hành thẻ khách hàng.
+* Bạn  truy cập Khách hàng / Thẻ khách hàng / Tab Phát hành thẻ/ click Thêm mới. Có 2 cách thêm mới đợt phát hành thẻ khách hàng:
 1. Thêm trực tiếp: Nhập tên đợt phát hành thẻ, số lượng thẻ phát hành, click Lưu ==> Hệ thống tự động sinh mã thẻ
 2. Import Excel: Chuyển sang tab Import hoặc truy cập vào đây, tải file mẫu về, nhập liệu, sau đó import lên hệ thống. ==> với cách này, hệ thống không tự sinh mã thẻ mà doanh nghiệp có thể tùy chỉnh được mã thẻ khách hàng theo ý muốn.
 
