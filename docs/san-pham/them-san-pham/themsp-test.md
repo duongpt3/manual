@@ -62,9 +62,15 @@ Sau khi nhập liệu đầy đủ thông tin, doanh nghiệp Lưu file lại sa
 
 Không bắt buộc nhập Tên các sản phẩm chứa màu sắc, size số, hệ thống hỗ trợ tự sinh thêm các sản phẩm con theo các thuộc tính (màu, size) đã nhập ở trường sản phẩm cha. 
 
-- Trường hợp 1: Điền màu vào cột [M] và size vào cột [S]. Hệ thống tự động tạo ra các sản phẩm con theo số tổ hợp của 2 cột [M] và [S].
+- Trường hợp 1: 
+
+Điền màu vào cột [M] và size vào cột [S]. Hệ thống tự động tạo ra các sản phẩm con theo số tổ hợp của 2 cột [M] và [S].
+
 Ví dụ: Sản phẩm "Áo T45" điền cột [M] có 3 màu, cột [S] có 2 size thì hệ thống tự sinh thêm 6 sản phẩm con có tên theo dạng "Áo T45 màu ... size ...".
-- Trường hợp 2: Điền màu và size vào cột [M-S] (dùng khi sản phẩm mỗi màu có các size khác nhau). Điền theo dạng Mã màu - Mã các size; lần lượt cho tất cả các màu sản phẩm, hệ thống tự động tạo ra các sản phẩm con tương ứng với thông tin đã điền.
+
+- Trường hợp 2: 
+
+Điền màu và size vào cột [M-S] (dùng khi sản phẩm mỗi màu có các size khác nhau). Điền theo dạng Mã màu - Mã các size; lần lượt cho tất cả các màu sản phẩm, hệ thống tự động tạo ra các sản phẩm con tương ứng với thông tin đã điền.
 
 **Sau khi import lần đầu để hệ thống sinh thêm các sản phẩm con thì mới nên thực hiện cập nhật ảnh sản phẩm vào hệ thống. Quy trình như sau:**
 
