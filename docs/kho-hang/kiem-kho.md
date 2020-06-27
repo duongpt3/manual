@@ -203,5 +203,18 @@ Thông thường khi hãng vận chuyển bàn giao hàng hóa cho Nhanh.vn, h�
 
 **Lưu ý:** Việc đổi trạng thái thủ công này, dễ gây thất thoát hàng hóa và khó kiếm soát. Bạn nên thận trọng với nghiệp vụ này.
 
+## Câu hỏi thường gặp
+
+| STT | Câu Hỏi | Giải Đáp |
+|-----|---------|----------|
+| 1 | Khi kiểm kho theo sản phẩm bằng file excel xong rồi, nhưng khách nhớ ra còn thiếu 1 sản phẩm chưa kiểm thay vì vào sửa phiếu kiểm kho có nút tắt nào đến phần thêm sản phẩm vào phiếu hay không? | Có nút thêm sản phẩm vào phiếu kiểm kho, nút bánh răng bên phải phiếu kiểm kho đó.|
+| 2 | Khi kiểm kho phát hiện có chênh lệch giữa số tồn thực tế với số tồn trên hệ thống, thao tác như thế nào để sửa lại cho đúng? | Thêm thao tác bù trừ kiểm kho, rồi ấn Thêm Phiếu XNK. Xong |
+| 3 | Nếu số tồn của sản phẩm nhỏ hơn hoặc lớn hơn số lượng nằm trong khoảng hạn mức tồn kho thì Nhanh.vn có 1 thông báo hay cảnh báo hay không? | Không có, chỉ xem trong hạn mức tồn thì có bôi đỏ sản phẩm |
+| 4 | Khi hướng dẫn kiểm kho toàn bộ sản phẩm, nếu khách hàng quên tên 1 sản phẩm thì hệ thống sẽ tự hiểu sản phẩm đó có số kiểm kho như thế nào ạ? | Các sản phẩm không điền, sẽ hiện trong danh sách sản phẩm thiếu và số kiểm kho là 0. |
+| 5 | Phiếu kiểm kho có mang lại lợi ích gì cho các cửa hàng? | check xem tồn thực tế và tồn trên phần mềm chênh lệch như thế nào. |
+| 6 | 
+
+
+
 
 
