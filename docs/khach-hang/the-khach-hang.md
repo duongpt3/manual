@@ -9,10 +9,12 @@ Tình huống sử dụng thực tế:
 
 Nghiệp vụ quản lý thẻ khách hàng:
 
-- Bước 1: Phát hành thẻ khách hàng
 
+- Bước 1: Phát hành thẻ khách hàng
 - Bước 2: Gắn khách hàng vào thẻ
-## Phát hành thẻ khách hàng:
+
+## Phát hành thẻ:
+
 Doanh nghiệp truy cập Khách hàng / Thẻ khách hàng / Tab Phát hành thẻ/ click Thêm mới. Có 2 cách thêm mới đợt phát hành thẻ khách hàng.
 1. Thêm trực tiếp: Nhập tên đợt phát hành thẻ, số lượng thẻ phát hành, click Lưu ==> Hệ thống tự động sinh mã thẻ
 2. Import Excel: Chuyển sang tab Import hoặc truy cập vào đây, tải file mẫu về, nhập liệu, sau đó import lên hệ thống. ==> với cách này, hệ thống không tự sinh mã thẻ mà doanh nghiệp có thể tùy chỉnh được mã thẻ khách hàng theo ý muốn.
@@ -25,7 +27,9 @@ Sau khi thêm mới, các đợt phát hành thẻ sẽ xuất hiện tại Danh
 
 Tình huống sử dụng thực tế:
 - Doanh nghiệp Xuất Excel danh sách mã thẻ khách hàng trong 1 đợt, sau đó gửi file Excel cho bên in ấn để họ in thẻ.
-## Gắn khách hàng vào thẻ
+
+## Gắn thông tin khách hàng
+
 **Trường hợp 1:** Gắn khách vào thẻ trước, rồi gửi thẻ cho khách hàng
        
  - Tại Danh sách đợt phát hành thẻ, click vào số lượng mã thẻ
@@ -47,3 +51,11 @@ Sau khi gắn khách hàng vào thẻ, danh sách thẻ sẽ hiển thị đầy
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/thong-tin-the-khach-hang.jpg?token=AQAV53SJX5PZPA2TY7AHIXS66GJ6W)
 
+## Đổi thẻ khách hàng
+
+* Các tình huống có thể cần tới chức năng đổi thẻ:
+  * Khách hàng làm mất thẻ
+  * Nếu bạn in mỗi cấp độ khách hàng (VIP / Vàng / Bạc) một loại thẻ khác nhau, khi khách nâng hạng cần đổi thẻ.
+* Các thao tác để đổi thẻ khách hàng:
+  * Đang cập nhật
+  
