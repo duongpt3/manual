@@ -5,19 +5,22 @@ Truy cập lần lượt vào Sản phẩm / nhấn Thêm mới / , hoặc truy 
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-themsp-formdongian.png)
 
-Thông tin cơ bản: Nhập Tên, ảnh, mã sản phẩm, danh mục, giá nhập, giá bán, giá buôn, tồn đầu...
-Thuộc tính và sản phẩm con: Nhập các thuộc tính cho sản phẩm. khi muốn tạo các sản phẩm con theo thuộc tính . Lưu ý nếu tạo sản phẩm con thì bạn KHÔNG nhập số lượng sản phẩm ở tab Thông tin cơ bản, mà nhập số lượng cho từng sản phẩm con. Xem thêm cách tạo thuộc tính tại [đây](https://manual.nhanh.vn/san-pham/them-san-pham/tao-thuoc-tinh-cho-san-pham).
-Bảo hành và vận chuyển: Nhập các thông tin cần thiết trong trường hợp doanh nghiệp có dùng module Bảo hành sửa chữa và Dịch vụ vận chuyển của Nhanh.vn
-Website: Nhập các thông tin cần thiết trong trường hợp có sử dụng website do Nhanh.vn cung cấp.
+* Thông tin cơ bản: Nhập Tên, ảnh, mã sản phẩm, danh mục, giá nhập, giá bán, giá buôn, tồn đầu...
+* Thuộc tính và sản phẩm con: Nhập các thuộc tính cho sản phẩm. khi muốn tạo các sản phẩm con theo thuộc tính . 
+Lưu ý nếu tạo sản phẩm con thì bạn KHÔNG nhập số lượng sản phẩm ở tab Thông tin cơ bản, mà nhập số lượng cho từng sản phẩm con. 
+Xem thêm cách tạo thuộc tính tại [đây](https://manual.nhanh.vn/san-pham/them-san-pham/tao-thuoc-tinh-cho-san-pham).
+* Bảo hành và vận chuyển: Nhập các thông tin cần thiết trong trường hợp doanh nghiệp có dùng module Bảo hành sửa chữa và Dịch vụ vận chuyển của Nhanh.vn
+* Website: Nhập các thông tin cần thiết trong trường hợp có sử dụng website do Nhanh.vn cung cấp.
 
 Video hướng dẫn thêm sản phẩm 
 
 ## Import sản phẩm bằng file Excel
 Truy cập lần lượt vào Sản phẩm / nhấn Nhập từ Excel  hoặc truy cập tại [đây](https://new.nhanh.vn/product/item/add?tab=excel).
 ### Bước 1: Chọn ngành hàng
-Chung: Dùng để Import những sản phẩm không cần phân chia thuộc tính như : mỹ phẩm, đồ gia dụng, công nghệ...
-Nhà bếp: Dùng để Import những sản phẩm là đồ dùng nhà bếp.
-Thời trang: Dùng để Import những sản phẩm có thuộc tính, các sản phẩm thời trang như: quần áo, giày dép, mũ nón,...
+* Chung: Dùng để Import những sản phẩm không cần phân chia thuộc tính như : mỹ phẩm, đồ gia dụng, công nghệ...
+* Nhà bếp: Dùng để Import những sản phẩm là đồ dùng nhà bếp.
+* Thời trang: Dùng để Import những sản phẩm có thuộc tính, các sản phẩm thời trang như: quần áo, giày dép, mũ nón,...
+
 Import nhập mới: Nhập mới (lần đầu) sản phẩm mới vào hệ thống.
 Cập nhật sản phẩm (thay đổi thông tin những sản phẩm đã có trên hệ thống):
 Cập nhật thuộc tính sản phẩm (định nghĩa cha con): Với trường hợp này, file Excel Import Sẽ cần điền thêm cột "Mã sản phẩm cha" trong file Import.
