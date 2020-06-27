@@ -16,7 +16,7 @@ Khách hàng sẽ được tạo tự động từ các thông tin bạn nhập 
 ## Thêm từng khách hàng
 
 * Đọc lại các khái niệm cơ bản về khách hàng [tại đây](https://manual.nhanh.vn/khach-hang/gioi-thieu).
-* Truy cập trang [Danh sách khách hàng](https://new.nhanh.vn/customer/code/customerlist) chọn **Thêm mới** > **Thêm khách hàng** hoặc truy cập [tại đây](https://new.nhanh.vn/customer/code/add)
+* Truy cập trang [Danh sách khách hàng](https://new.nhanh.vn/customer/code/customerlist) chọn **Thêm mới** > [**Thêm khách hàng**](https://new.nhanh.vn/customer/code/add)
 
 ![Thêm khách hàng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/them-khach-hang.jpg)
 
