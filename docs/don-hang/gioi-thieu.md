@@ -119,7 +119,7 @@ Xem chi tiết các bước thực hiện [tại đây](https://manual.nhanh.vn/
 
 Đối với những đơn hàng chưa giao thành công doanh nghiệp có thể hủy và sửa thông tin đơn hàng, thay đổi sản phẩm, số lượng,... trong phần [Khiếu nại](link) đơn hàng. 
 
-## Tip quản lý đơn hàng
+## Để quản lý đơn hàng TỐT hơn, bạn cần?
 - Luôn quản lý, theo dõi trạng thái, lịch trình của các đơn hàng
 - Nắm được nguyên tắc xuất nhập kho, tồn của sản phẩm
 - Lựa chọn được hãng vận chuyển uy tín và phù hợp
