@@ -69,8 +69,11 @@ Ví dụ: Sản phẩm "Áo T45" điền cột [M] có 3 màu, cột [S] có 2 s
 **Sau khi import lần đầu để hệ thống sinh thêm các sản phẩm con thì mới nên thực hiện cập nhật ảnh sản phẩm vào hệ thống. Quy trình như sau:**
 
  :heavy_check_mark: Bước 1: Vào phần Danh sách sản phẩm để Export danh sách sản phẩm mới (có cả các dòng sp con).
+ 
  :heavy_check_mark: Bước 2: Copy các cột tên sản phẩm và mã sản phẩm vào mẫu file import, điền thêm tên đầy đủ file ảnh (tên+đuôi file) vào cột Ảnh.
+ 
  :heavy_check_mark: Bước 3: Upload file ảnh trước khi import (có thể upload nhiều file một lúc).
+ 
  :heavy_check_mark: Bước 4: Chọn kiểu import "Cập nhật thông tin", chọn file import mới điền và click Import.
 
 ---
