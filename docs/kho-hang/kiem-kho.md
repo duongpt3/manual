@@ -212,7 +212,6 @@ Thông thường khi hãng vận chuyển bàn giao hàng hóa cho Nhanh.vn, h�
 | 3 | Nếu số tồn của sản phẩm nhỏ hơn hoặc lớn hơn số lượng nằm trong khoảng hạn mức tồn kho thì Nhanh.vn có 1 thông báo hay cảnh báo hay không? | Không có, chỉ xem trong hạn mức tồn thì có bôi đỏ sản phẩm |
 | 4 | Khi hướng dẫn kiểm kho toàn bộ sản phẩm, nếu khách hàng quên tên 1 sản phẩm thì hệ thống sẽ tự hiểu sản phẩm đó có số kiểm kho như thế nào ạ? | Các sản phẩm không điền, sẽ hiện trong danh sách sản phẩm thiếu và số kiểm kho là 0. |
 | 5 | Phiếu kiểm kho có mang lại lợi ích gì cho các cửa hàng? | check xem tồn thực tế và tồn trên phần mềm chênh lệch như thế nào. |
-| 6 | 
 
 
 
