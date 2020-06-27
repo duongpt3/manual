@@ -14,7 +14,7 @@ Truy cập lần lượt vào Sản phẩm / nhấn Thêm mới / , hoặc truy 
 * Thông tin cơ bản: Nhập Tên, ảnh, mã sản phẩm, danh mục, giá nhập, giá bán, giá buôn, tồn đầu...
 * Thuộc tính và sản phẩm con: Nhập các thuộc tính cho sản phẩm. khi muốn tạo các sản phẩm con theo thuộc tính . 
 
-Lưu ý nếu tạo sản phẩm con thì bạn KHÔNG nhập số lượng sản phẩm ở tab Thông tin cơ bản, mà nhập số lượng cho từng sản phẩm con. 
+:warning: Lưu ý : nếu tạo sản phẩm con thì bạn KHÔNG nhập số lượng sản phẩm ở tab Thông tin cơ bản, mà nhập số lượng cho từng sản phẩm con. 
 Xem thêm cách tạo thuộc tính tại [đây](https://manual.nhanh.vn/san-pham/them-san-pham/tao-thuoc-tinh-cho-san-pham).
 * Bảo hành và vận chuyển: Nhập các thông tin cần thiết trong trường hợp doanh nghiệp có dùng module Bảo hành sửa chữa và Dịch vụ vận chuyển của Nhanh.vn
 * Website: Nhập các thông tin cần thiết trong trường hợp có sử dụng website do Nhanh.vn cung cấp.
@@ -57,13 +57,14 @@ Sau khi nhập liệu đầy đủ thông tin, doanh nghiệp Lưu file lại sa
   * Xác nhận Import sản phẩm thành công, bạn kiểm tra Danh sách sản phẩm vừa Import tại trang [Danh sách sản phẩm](https://new.nhanh.vn/product/item/index)
 
 **Video hướng dẫn import sản phẩm bằng file Excel:**
+
 **Một số lưu ý khi Import sản phẩm ngành hàng Thời trang**
 Không bắt buộc nhập Tên các sản phẩm chứa màu sắc, size số: Hệ thống hỗ trợ tự sinh thêm các sản phẩm con theo các thuộc tính (màu, size) đã nhập ở trường sản phẩm cha. 
 - Trường hợp 1: Điền màu vào cột [M] và size vào cột [S]. Hệ thống tự động tạo ra các sản phẩm con theo số tổ hợp của 2 cột [M] và [S].
 Ví dụ: Sản phẩm "Áo T45" điền cột [M] có 3 màu, cột [S] có 2 size thì hệ thống tự sinh thêm 6 sản phẩm con có tên theo dạng "Áo T45 màu ... size ...".
 - Trường hợp 2: Điền màu và size vào cột [M-S] (dùng khi sản phẩm mỗi màu có các size khác nhau). Điền theo dạng Mã màu - Mã các size; lần lượt cho tất cả các màu sản phẩm, hệ thống tự động tạo ra các sản phẩm con tương ứng với thông tin đã điền.
 
-Sau khi import lần đầu để hệ thống sinh thêm các sản phẩm con thì mới nên thực hiện cập nhật ảnh sản phẩm vào hệ thống. Quy trình như sau:
+**Sau khi import lần đầu để hệ thống sinh thêm các sản phẩm con thì mới nên thực hiện cập nhật ảnh sản phẩm vào hệ thống. Quy trình như sau:**
 
 * Bước 1: Vào phần Danh sách sản phẩm để Export danh sách sản phẩm mới (có cả các dòng sp con).
 * Bước 2: Copy các cột tên sản phẩm và mã sản phẩm vào mẫu file import, điền thêm tên đầy đủ file ảnh (tên+đuôi file) vào cột Ảnh.
@@ -71,18 +72,20 @@ Sau khi import lần đầu để hệ thống sinh thêm các sản phẩm con 
 * Bước 4: Chọn kiểu import "Cập nhật thông tin", chọn file import mới điền và click Import.
 
 ---
-**Một số các lưu ý**
-- Những trường thông tin có dấu "*"có nghĩa là **bắt buộc** phải nhập* . Điều kiện tối thiểu: Tên sản phẩm, Loại sản phẩm.
+**:pushpin: Một số các lưu ý**
+- Những trường thông tin có dấu "![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sao.png)" *có nghĩa là **bắt buộc** phải nhập* . **Điều kiện tối thiểu: Tên sản phẩm, Loại sản phẩm.**
 - Nên có mã sản phẩm hoặc mã vạch sản phẩm (tự động sinh trên hệ thống hoặc doanh nghiệp tự tạo mã riêng), mã sản phẩm nên có cả chữ cái và chữ số, được hiểu là thông tin định danh thứ 2 của sản phẩm sau "Tên".
-- Nếu điền tồn đầu, phải khái báo ô giá nhập.
+- Nếu điền tồn đầu, **phải** khái báo ô giá nhập.
 - Danh mục có thể đc tạo nhanh ngay trong lúc tạo mới sản phẩm, sản phẩm  rất nên được phân loại theo danh mục.
 - Thêm mới sản phẩm nên khai báo chi tiết thì quá trình tìm kiếm, tra cứu thông tin càng trở nên đơn giản hơn.
 - Nên thêm ảnh sản phẩm sau khi tạo thông tin.
 ---
-**Một số câu hỏi thường gặp**
+**:question: Một số câu hỏi thường gặp**
 * Sau khi thêm mới xong , nhưng muốn thêm các sản phẩm con thì sao ?
+
   Thao tác chia lại thuộc tính hoặc Import cập nhật lại thông tin sản phẩm cha con ( nếu đã có sẵn các sản phẩm cha con ).
 * Muốn thêm các thuộc tính khác để hiển thị khi thêm mới sản phẩm có được không ?
+
   Thao tác ở phần thuộc tính > thêm mới thuộc tính cần thiết
 
 
