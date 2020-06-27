@@ -10,7 +10,7 @@ Thuộc tính và sản phẩm con: Nhập các thuộc tính cho sản phẩm. 
 Bảo hành và vận chuyển: Nhập các thông tin cần thiết trong trường hợp doanh nghiệp có dùng module Bảo hành sửa chữa và Dịch vụ vận chuyển của Nhanh.vn
 Website: Nhập các thông tin cần thiết trong trường hợp có sử dụng website do Nhanh.vn cung cấp.
 
-Video hướng dẫn thêm sản phẩm form đơn giản:
+Video hướng dẫn thêm sản phẩm 
 
 ## Import sản phẩm bằng file Excel
 Truy cập lần lượt vào Sản phẩm / nhấn Nhập từ Excel  hoặc truy cập tại [đây](https://new.nhanh.vn/product/item/add?tab=excel).
