@@ -3,6 +3,7 @@
 * Thẻ khách hàng (hay còn gọi là Loyalty Card, VIP Card, Member Card...) là công cụ để định danh thông tin khách hàng.
 * Thẻ khách hàng gồm 2 thông tin là mã thẻ và thông tin khách hàng. Một thẻ được gắn với một khách hàng cụ thể.
 * Mã thẻ giúp tìm kiếm khách hàng nhanh hơn, thông tin trên thẻ cũng giúp khách hàng thường xuyên nhớ tới thương hiệu của bạn hơn.
+*todo: thêm Hình minh họa thẻ*
 
 Tình huống sử dụng thực tế:
 
