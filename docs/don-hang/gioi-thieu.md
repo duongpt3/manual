@@ -73,9 +73,9 @@ Khi đơn hàng phát sinh các vấn đề như:
 
 Sau khi tạo đơn hàng, doanh nghiệp thực hiện các bước **Xác nhận đơn hàng > In hàng và đóng gói > Cho đơn hàng vào biên bản bàn giao > Vận chuyển > Đối soát (nếu có dùng hãng vận chuyển) và thanh toán** để hoàn thành xong đơn hàng thành công.
 
-Doanh nghiệp xem thêm chi tiết Quy trình xử lý đơn hàng 
+Doanh nghiệp xem thêm chi tiết [Quy trình xử lý đơn hàng](https://manual.nhanh.vn/don-hang/quy-trinh-xu-ly-don-hang)
 
-Lưu ý: Quy trình xử lý đơn hàng hiện tại trên nhanh là:
+**Lưu ý:** Quy trình xử lý đơn hàng hiện tại trên nhanh là:
 
 - Doanh nghiệp tạo đơn.
 - Gửi đơn sang hãng vận chuyển.
