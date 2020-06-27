@@ -95,7 +95,7 @@ Tính năng này dùng để kiếm tra những đơn hàng của cùng một kh
 
 ![Giao diện làm việc của Đơn trùng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/gioi-thieu-don-hang-4.png)
 
-**Bước 2:** Chọn những đơn cần gộp > Bấm nút **Thao tác** > **Gộp các đơn đã chọn**
+**Bước 2:** Bấm chọn những đơn cần gộp > Bấm nút **Thao tác** > **Gộp các đơn đã chọn**
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/gioi-thieu-don-hang-5.png)
 
