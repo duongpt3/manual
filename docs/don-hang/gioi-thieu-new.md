@@ -70,6 +70,7 @@ Thì bạn dùng tính năng Khiếu nại để báo Nhanh.vn xử lý các v�
 
 ### Xử lý đơn hàng
 **1. Quy trình đơn hàng**
+
 Sau khi tạo đơn hàng, doanh nghiệp thực hiện các bước **Xác nhận đơn hàng > In hàng và đóng gói > Cho đơn hàng vào biên bản bàn giao > Vận chuyển > Đối soát (nếu có dùng hãng vận chuyển) và thanh toán** để hoàn thành xong đơn hàng thành công.
 
 Doanh nghiệp xem thêm chi tiết Quy trình xử lý đơn hàng 
@@ -85,6 +86,7 @@ Lưu ý: Quy trình xử lý đơn hàng hiện tại trên nhanh là:
 Khi sử dụng vận chuyển trên Nhanh thì các bước 2,3,4 trên là do Nhanh làm, còn với doanh nghiệp Tự vận chuyển thì sẽ tự làm các bước đổi trạng thái, đối soát, chốt tiền.
 
 **2. Xử lý đơn trùng** 
+
 Tính năng này dùng để kiếm tra những đơn hàng của cùng một khách hàng. Từ đó doanh nghiệp có thể tiến hành gộp nhiều đơn thành một đơn cho khách hàng 
 
 Để gộp đơn hàng, doanh nghiệp thực hiện như sau:
