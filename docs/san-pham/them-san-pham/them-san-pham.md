@@ -1,7 +1,5 @@
 # Thêm sản phẩm
-
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-themsp-mohinh.png)
-
+------
 ## Thêm mới từng sản phẩm
 ### Thêm sản phẩm form đơn giản
 Truy cập lần lượt vào Sản phẩm / nhấn Thêm mới / , hoặc truy cập tại [đây](https://new.nhanh.vn/product/item/add).
