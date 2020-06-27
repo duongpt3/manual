@@ -1,5 +1,7 @@
 # Giới thiệu đơn hàng
+
 Nhanh.vn giúp bạn dễ dàng theo dõi và thực hiện các đơn hàng. Tất cả các đơn đặt hàng, hàng tồn kho, nhà cung cấp và dữ liệu khách hàng của bạn được đồng bộ hóa và tích hợp đầy đủ trên một hệ thống.
+
 Đơn hàng là nơi quản lý tất cả các đơn hàng online, đơn đặt hàng trước, đơn cần vận chuyển (đơn gửi hãng vận chuyển, cần thu hộ tiền COD).
 
 ## So sánh ĐƠN HÀNG và BÁN HÀNG
@@ -23,8 +25,29 @@ Trừ tồn kho và ghi nhận doanh thu ngay sau khi tạo đơn | Sau khi đơ
 **Đang chuyển hoàn** | Khi khác hàng không nhận và doanh nghiệp xác nhận việc khách không nhận hàng, hãng sẽ cập nhật về trạng thái này và mang hàng về cho doanh nghiệp
 **Đã chuyển hoàn** | Doanh nghiệp nhận lại hàng Đang chuyển hoàn và tự đổi sang trạng thái Đã chuyển hoàn
 **Thành công** | Khi đơn hàng đã gửi cho khách thì hãng/doanh nghiệp cần đổi sang trạng thái thành công.
+
+### Biên bản bàn giao
+Khi có nhiều đơn hàng cần gửi cho hãng vận chuyển trong ngày, bạn nên dùng biên bản bàn giao để:
+- Cho nhiều đơn hàng vào biên bản và bắn biên bản sang hãng vận chuyển cùng 1 thời điểm, giúp cho việc điều tin nhanh và tập trung hơn.
+- In bảng tổng hợp số lượng sản phẩm để nhặt hàng và đóng gói nhanh hơn.
+- In biên bản cho bưu tá kí xác nhận đã nhận tổng số đơn và bảng kê chi tiết, mà không cần kí nhận từng phiếu gửi giúp tiết kiệm giấy in, hạn chế thất thoát.
+
+### Đối soát
+Nhanh.vn sẽ đối soát các đơn hàng gửi qua hãng vận chuyển để gửi tiền cho doanh nghiệp.
+
+### Khiếu nại 
+Khi đơn hàng phát sinh các vấn đề như:
+
+Bưu tá chậm đến lấy hàng
+Muốn thay đổi thông tin đơn hàng, đổi tiền thu hộ (COD)
+Báo lưu đơn hàng tại kho, báo phát lại, báo hoàn hàng, báo hủy đơn hàng
+Yêu cầu cập nhật trạng thái đơn hàng....
+Thì bạn dùng tính năng Khiếu nại để báo Nhanh.vn xử lý các vấn đề này.
+
 ## Các hoạt động của đơn hàng 
+
 ### Tạo đơn hàng 
+
 **Đơn hàng có thể được tạo từ các nguồn sau:**
 
 - Khách gọi điện thoại đến doanh nghiệp để đặt hàng > Nhân viên tự tạo đơn hàng
