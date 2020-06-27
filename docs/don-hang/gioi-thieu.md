@@ -38,11 +38,11 @@ Nhanh.vn sẽ đối soát các đơn hàng gửi qua hãng vận chuyển để
 ### Khiếu nại 
 Khi đơn hàng phát sinh các vấn đề như:
 
-Bưu tá chậm đến lấy hàng
-Muốn thay đổi thông tin đơn hàng, đổi tiền thu hộ (COD)
-Báo lưu đơn hàng tại kho, báo phát lại, báo hoàn hàng, báo hủy đơn hàng
-Yêu cầu cập nhật trạng thái đơn hàng....
-Thì bạn dùng tính năng Khiếu nại để báo Nhanh.vn xử lý các vấn đề này.
+- Bưu tá chậm đến lấy hàng
+- Muốn thay đổi thông tin đơn hàng, đổi tiền thu hộ (COD)
+- Báo lưu đơn hàng tại kho, báo phát lại, báo hoàn hàng, báo hủy đơn hàng
+- Yêu cầu cập nhật trạng thái đơn hàng....
+- Thì bạn dùng tính năng Khiếu nại để báo Nhanh.vn xử lý các vấn đề này.
 
 ## Các hoạt động của đơn hàng 
 
