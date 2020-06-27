@@ -91,7 +91,7 @@ Tính năng này dùng để kiếm tra những đơn hàng của cùng một kh
 
 Để gộp đơn hàng, doanh nghiệp thực hiện như sau:
 
-**Bước 1:* Đơn hàng > Đơn trùng > Bấm vào số lượng đơn hàng
+**Bước 1:** Đơn hàng > Đơn trùng > Bấm chọn tổng số lượng đơn
 
 ![Giao diện làm việc của Đơn trùng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/gioi-thieu-don-hang-4.png)
 
@@ -108,7 +108,7 @@ Tính năng này dùng để kiếm tra những đơn hàng của cùng một kh
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/gioi-thieu-don-hang-7.png)
 
 
-**Lưu ý:** Chỉ thực hiện gộp đơn hàng đối với những đơn hàng mà hãng vận chuyển chưa lấy hàng.
+**Lưu ý:** Chỉ thực hiện gộp đơn hàng đối với những đơn hàng cùng một khách hàng và hãng vận chuyển chưa lấy hàng
 
 **3. Xử lý đổi trả đơn hàng**
 
