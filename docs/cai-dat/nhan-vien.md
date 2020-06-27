@@ -6,7 +6,7 @@
 
 * Ý nghĩa các nhóm quyền của nhân viên:
 
-Nhóm quyền |Ý nghĩa
+ Nhóm quyền |Ý nghĩa
 ------------ | -------------
 Giám đốc | Là nhóm quyền cao nhất, phụ trách tất cả các vấn đề của hệ thống, thường sẽ không bị giới hạn quyền gì của doanh nghiệp (trừ khi tài khoản đó được phân quyền riêng)
 Nhân viên kế toán | Nhóm quyền gần với giám đốc nhất, gần như quản lý hết mọi vấn đề, phụ trách chính về các vấn đề liên quan tới kế toán
